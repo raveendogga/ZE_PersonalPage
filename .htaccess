@@ -1,0 +1,24 @@
+Options -Indexes
+
+# Rewrite rules for friendly URLs (optional, but good for SEO)
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Prevent viewing of config files
+<FilesMatch "\.(inc|sql|env)$">
+order allow,deny
+deny from all
+</FilesMatch>
+
+# Basic security headers
+Header set X-Content-Type-Options "nosniff"
+Header set X-XSS-Protection "1; mode=block"
+Header set X-Frame-Options "SAMEORIGIN"

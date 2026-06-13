@@ -1,0 +1,201 @@
+/* 
+ * Zunik Energies - Main Stylesheet 
+ * Institutional / Corporate Theme
+ */
+
+/* Color Palette */
+:root {
+    --primary-color: #0056b3;
+    /* Deep corporate blue */
+    --primary-dark: #003d82;
+    --secondary-color: #28a745;
+    /* Eco green */
+    --secondary-dark: #1e7e34;
+    --dark-color: #121212;
+    --light-color: #f8f9fa;
+    --text-color: #333333;
+    --muted-color: #6c757d;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: var(--text-color);
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: var(--dark-color);
+    letter-spacing: -0.5px;
+}
+
+/* Utilities */
+.text-primary {
+    color: var(--primary-color) !important;
+}
+
+.text-secondary {
+    color: var(--secondary-color) !important;
+}
+
+.bg-primary {
+    background-color: var(--primary-color) !important;
+}
+
+.bg-secondary {
+    background-color: var(--secondary-color) !important;
+}
+
+.bg-dark {
+    background-color: var(--dark-color) !important;
+}
+
+.bg-light {
+    background-color: var(--light-color) !important;
+}
+
+/* Topbar */
+.topbar {
+    font-size: 0.85rem;
+    background-color: #0a0a0a !important;
+    /* Extremely dark for top bar */
+}
+
+.hover-primary {
+    transition: color 0.3s ease;
+}
+
+.hover-primary:hover {
+    color: var(--primary-color) !important;
+}
+
+/* Navbar */
+.navbar {
+    transition: all 0.3s ease;
+}
+
+.navbar-brand {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: var(--text-color);
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    color: var(--primary-color) !important;
+    font-weight: 600;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 86, 179, 0.2);
+}
+
+.btn-outline-primary {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+    transition: all 0.3s ease;
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+/* Footer styling */
+footer {
+    background-color: var(--dark-color) !important;
+    color: #e0e0e0;
+}
+
+.footer-links p {
+    margin-bottom: 0.5rem;
+}
+
+.transition-link {
+    transition: color 0.3s ease, padding-left 0.3s ease;
+}
+
+.transition-link:hover {
+    color: var(--primary-color) !important;
+    padding-left: 5px;
+}
+
+.btn-outline-secondary {
+    border-color: #444;
+    color: #bbb;
+}
+
+.btn-outline-secondary:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+/* Common Section Styles */
+.section-padding {
+    padding: 80px 0;
+}
+
+.section-title {
+    position: relative;
+    margin-bottom: 40px;
+    padding-bottom: 15px;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 60px;
+    height: 3px;
+    background-color: var(--primary-color);
+}
+
+.section-title.text-center::after {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Hero Section Base */
+.hero-section {
+    position: relative;
+    background-color: var(--light-color);
+    overflow: hidden;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}

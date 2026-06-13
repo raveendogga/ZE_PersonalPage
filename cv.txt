@@ -1,0 +1,1315 @@
+1 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+Dr. Dogga Raveendhra  
+Ex-Senior Engineering Consultant,  ALTEN GmbH, Germany  
+Post-Doc (Renewable Energy Research Centre, AUS)  
+Vising Researcher (North Carolina State University, USA) 
+Ph.D. (IIT Roorkee, Excellence in Doctoral Research Awardee)  
+M.Tech. (Electrical Drives and Power Electronics, EED, IITR) 
+Hard-working, results -oriented and self -driven researcher with 8  years of 
+experience in Power Electronics and Electrical Drives. Proven history in overseeing 
+all aspects of projects from initial planning, developing, prototyping, and 
+publishing. Experience accompanied by graduate degree, teaching, and research 
+with the best innovation award. Possess strong communication, team 
+management, negotiation, leadership, training, problem-solving and motivational 
+skills. 
+  Assistant Professr, EED, MNNIT 
+ GEW-8, EED, MNNIT Allahabad 
+ +91 9381694994 
+ 
+http://mnnit.ac.in/profile/raveendogga 
+ doggaravi19@gmail.com 
+raveendogga@mnnit.ac.in 
+ raveendhra_dogga 
+ /raveendhra-dogga-18729a3a 
+INTERESTS 
+1. Applications and Controls of Power Electronics in Automotive/Transportation, and Renewable Energy Systems 
+2. Dynamic Modelling and Control of Power Electronic Converters and Motor-Drives 
+3. Applications of Artificial Intelligence in Power Systems and Power Electronics 
+4. Wide Band-Gap Devices based Power Converters  
+5. FPGA and DSP Controllers for PE Applications 
+Profile Summary 
+1. Excellence in Doctoral Research Award from IIT Roorkee for best Ph. D. Work 
+2. Ph.D. (Thesis grade “A”) from EE department, IIT Roorkee. 
+3. Best Innovation award by Zunik Energies in 2019. 
+4. Countries travelled on research Purpose: USA, Germany, Malaysia, and UAE 
+5. Patents Filed/Published: 01 US Patent Disclosures and 02 published Indian Patents 
+6. 10+ years of Industrial R&D and Academic experience in various engineering domains  
+7. Worked as Visiting Researcher at FREEDM System Centre, NC State University, USA . Involved in the Development of Novel 
+Characterization Circuit for Power Electronics Devices Testing.  
+8. Worked as an Assistant Professor at the Electrical Engineering Department in Graphic Era University, Dehradun.  
+9. Worked in tools as Eagle software, Altium (for PCB design), Xilinx ISE for FPGA Controllers Spartsan-6 and 3E; familiar with TI-DSP 
+processor - TMS320F240, TI - Processor - TMS320F148, MSP-430.  
+Few outcomes from PhD Work apart from Publications/Grants: 
+10. Nominated by Director IIT Roorkee for Festival of Innovation and Entrepreneurship (FINE-2018), Rashtrapati Bhavan, New Delhi. 
+11. Nominated by TIDES Business Incubator, IIT Roorkee for the exhibition at Destination Uttarakhand (UKIS -201) (Chief Guests are 
+Prime Minister of India and CM of Uttarakhand) 
+12. Invited delegate for CII DST India – Italy Technology Summit held on 29th and 30th Oct, 2018 at Taj Palace, New Delhi (Chief Guest 
+are Prime Minister of India and Prime Minister of Italy). 
+13. Invited to showcase Innovation at FICCI 14th Higher Education Summit 
+14. Selected for SLUSH 2018, which was held on 03 rd to 05th December 2018 in Helsinki, Finland. (Funded by AP Innovation Society 
+and Invest India 
+HIGHLIGHTS OF QUALIFICATIONS 
+1. Design, modelling, simulation, control, and implementation of power electronic converters and machine drive, including space 
+vector inverters for automotive/transportation and industrial motor drives, and single-stage boost-inverters for renewable energy 
+applications 
+2. Simulation (Model-Based Analysis) in Simulink, including modelling and control of DC-AC and DC-DC power electronic converters 
+in continuous and discrete domains 
+3. Programming in MATLAB, including numerical analysis methods and artificial intelligence algorithms 
+4. Technical support to world-leading OEMs, including writing datasheets, application notes, and training materials, presentations, 
+schematic and PCB layout review, and failure analysis. 
+5. Testing and troubleshooting of DC-AC and DC-DC power electronic converters 
+6. Using laboratory test equipment, including oscilloscopes, dynamometer, DC and AC power supplies, source meters, load 
+emulators, power analysers, RLC meters, signal generators, thermal camera, and logic analyser
+ 
+Educational Qualifications 
+Ph.D. Thesis: Improved Power Quality Transformerless Power Converters for Solar PV 
+applications 
+Electrical Engineering Department, Indian Institute of Technology, Roorkee 
+2019 with A grade  
+M.Tech Dissertation: Development of Converter System for Solar PV Power Generation 
+Specialization of Electrical Drives and Power Electronics 
+Indian Institute of Technology, Roorkee  
+2012 with 88.33% 
+
+2 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+B.Tech  Specialization of Electrical and Electronics Engineering 
+University: JNTU Kakinada. 
+2009 with 65.63% 
+International Work Experience 
+Senior Engineering Consultant, ALTEN Gmbh, Dortmund, North Rhine-Westphalia, Germany from Dec’22-Till June’ 2023 
+ Roles and Responsibilities:  
+• Develop Controller algorithms for on-board chargers for Electric Vehicles. 
+• Develop, test, and implement innovative research for power converters of Electric Vehicle Systems. 
+Post-Doctoral Research Associate, Renewable Energy Research Canter, American University of Sharjah, UAE as from Sep’19-June’20 
+(1 Academic Year) 
+ Roles and Responsibilities:  
+• Develop, test, and implement innovative research for Hybrid Energy Storage Systems of Electric Vehicle Systems. 
+• Develop prototypes & tools for Hybrid Energy Storage Systems of Electric Vehicles. 
+• Development of a loss -thermal model for space vector modulated (SVM) inverters, used for  
+IGBT/diode sizing 
+• Ripple analysis and capacitor sizing of traction/automotive inverters 
+• Fault and transient analyses of the inverters 
+• Development, simulation, and experimental verification of a field -oriented control for a 400V IPM  
+traction/automotive drive 
+Major Projects Handled  
+• LC-Bidirectional DC -DC Converter, Super Capacitor Characterisation using SiC Converters, Elimination of Common 
+Mode Voltages in power Converters and Wireless Power Supply for Drones 
+Visiting Doctoral Researcher, FREEDM Systems Centre, NC State University, USA from July’16 to Nov’16  
+ Roles and Responsibilities: 
+• Design and Development of Power Converter for Solar PV Systems. 
+Major Projects Handled 
+• Novel Characterization Circuit for Power Semiconductor Device Testing 
+• Design and verification of an IGBT gate drive circuit 
+• Design, tuning, and verification of IGBT short circuit (DESAT) and thermal protection 
+• Design, simulation, documentation, and experimental validation of a sliding mode controller for Solar Powered 
+Inverters 
+• Development, implementation, and documentation of a DC bus voltage prediction method to improve THD 
+• Design and implementation of an input phase open fault detection scheme for reduced DC capacitor drives 
+Work Experience in India 
+Research Experience: 
+Assistant Professor, MNNIT Allahabad, India from June’23 to Till Date 
+ Roles and Responsibilities:  
+• Teaching, Research & Development 
+• Member, Development Coordination Committee (DCC) Sub-Committee of Quantum Technology Division in TEC, 
+Govt. of India (National Level). 
+• Convener, Institute Committee for Center for Sustainable Energy (Institute Level) 
+• Associate Faculty In-Charge [Students Counselling (Boys)] (Institute Level) 
+• Coordinator, Website Management and Database Committee, EED [Department Level] 
+• O.C. (Officer-in-Charge) for Power Electronics Lab, EED [Department Level] 
+• Member, DUGC (EED) [Department Level] 
+• Member, DMPC (EED) [Department Level] 
+• Department Doctoral Selection Committee, EED, MNNIT [Department Level] 
+• Faculty Representative (EED) for Indian Science Technology and Engineering facilities Map (I-STEM), an initiative 
+of Govt. of India, under the PM-STIAC mission 
+Major Projects Handling: 
+• On-board Chargers for Electric Vehicles, LLC Resonant DC -DC Converters and Power Conditioning Units for Solar 
+PV Power Generations 
+Senior Research Engineer/Tech Lead/Founder, Zunik Energies Pvt. Ltd., India as from Nov’17  
+ Roles and Responsibilities 
+• Research and product development of Power Electronic Converters for Renewable Energy Applications and 
+Electrical Vehicles.   
+3 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+• Maintain current knowledge of technology landscape and developments 
+• Track, analyse and monitor technology performance metrics and consolidate our technology platforms and create 
+plans for each 
+• Identify new areas of opportunities and create plans to implement them for our clients and us 
+• Develop, test, and implement processes for product manufacture and production. 
+• Developed prototypes & tools and leveraged current applications 
+• Evaluating and implementing new systems and infrastructure 
+• Discover and implement new technologies that yield competitive advantage 
+• Preparing research proposals and funding applications 
+Major Projects Handled  
+• Single Stage Converters for Solar PV Applications, High Gain Converters for Electrical Vehicles and FPGA Controlled 
+Power Converters 
+Products Developed 
+• Single Stage Capacitor Clamped Boost Inverter, Super Capacitor Characterization Circuit using SiC -based Power 
+Converter, 200kW SiC-based Central Inverter, LC-Bi-Directional DC-DC Converter for Solar Applications. 
+Associate Professor, GRIET Hyderabad, India from Oct’20 to Nov’22 
+ Roles and Responsibility:  
+• Teaching, Research & Development 
+• Conduct Research in Industrial Drives Lab 
+• M.Tech Coordinator 
+Major Projects Handling: 
+• Capacitor Clamped Boost Inverter for on-grid Solar PV Applications, MSME, Govt. of. India 
+• Design of low cost and highly efficient testing circuit for power semiconductor device characterization, DST, 
+Govt. of. India 
+Senior Research Fellow, IIT Roorkee, India from June’16 to July’19 (3 Years) 
+ • Design, dynamic modelling and control, simulation, and implementation of MOSFET and IGBT based buck, boost, 
+and single-stage boost-inverter 
+• Development and experimental verification of a phasor-based PWM switching scheme for single- and three-phase 
+single-stage boost-inverters 
+• Simulation and Hardware Implementation of Power Electronics Converters for Solar PV Applications 
+Junior Research Fellow, IIT Roorkee, India from July’14 to May’16 (2 Years) 
+ Roles and Responsibilities 
+• Worked on Capacitor Clamped Boost Inverter Project Funded by TIDES, IIT Roorkee 
+Major Projects Handled  
+• Design and Development of Power Converter for Solar PV Systems. 
+• Modelling, simulation, and experimental validation of photovoltaic (PV) systems 
+• Design, dynamic modelling and control, simulation, and implementation of MOSFET and IGBT based buck, boost, 
+and single-stage boost-inverter 
+• Development and experimental verification of a phasor-based PWM switching scheme for single and three-phase 
+single-stage boost- inverters 
+Assistant Professor, Graphic Era University, India from July’12 to July’14 (2 years) 
+ Roles and Responsibility:  
+• Teaching and Research 
+• Conduct Research in Industrial Drives Lab 
+• Faculty advisor/course coordinator for Advanced Control and Industrial Drives Lab  
+• Working on Developing Supervisory Controls for Hybrid Electric Vehicles  
+Major Projects Handled  
+• Multi-Level Converter and Control Using FPGA for Drives Applications and Bi -Directional Power Converters for 
+Solar PV Applications 
+Publications (Journals, Patents, Book Chapters and Conferences): Citations: 605, h-index: 14, i10-index: 15 
+Journals Disclosures  
+1. D. Raveendhra and M. K. Pathak, "Three-Phase Capacitor Clamped Boost Inverter," in IEEE Journal of Emerging and Selected Topics 
+in Power Electronics , vol. 7, no. 3, pp. 1999 -2011, 2018, doi: 10.1109/JESTPE.2018.2873154, Print ISSN: 2168 -6777, Electronic 
+ISSN: 2168-6785 (Impact Factor: 5.177). (SCIE Indexed, Q1 Journal) 
+4 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+2. Raveendhra Dogga, M.K. Pathak, "Recent trends in solar PV inverter topologies", Solar Energy (Elsevier), Volume 183, 2019, Pages 
+57-73, ISSN 0038-092X, doi: 10.1016/j.solener.2019.02.065 (Impact Factor: 4.608). (SCIE Indexed, Q1 Journal) 
+3. S. Mukhopadhyay, R. Dhaouadi, M. Takrouri and R. Dogga, "Supercapacitor Characterization Using Universal Adaptive Stabilization 
+and Optimization," in IEEE Open Journal of the Industrial Electronics Society , vol. 1, pp. 166 -183, 2020, doi: 
+10.1109/OJIES.2020.3008339. (Impact Factor: 5.2). (ESCI Indexed, Q1 Journal) 
+4. D Raveendhra *, Poojitha Rajana, BL Narasimharaju, Babu Y Suri, Eugen Rusu*, Fayek H Hady. Analysis and Operation of High DC-
+AC Gain 3-ϕ Capacitor Clamped Boost Inverter. Energies 2022, 15(8), 2955; https://doi.org/10.3390/en15082955 (Impact Factor: 
+3) (SCIE Indexed, Q1 Journal) 
+5. Dogga Raveendhra; Praveen Jugge; Ravi Kumar KS; Poojitha R; Denis Sidorov, Daniil Panasetsky; Narasimha Raju BL, “Part I: State-
+of-the-Art technologies of DC Micro Grid with Hybrid Energy Storage Systems: Architectures and Converter Topologies”, Energies, 
+https://doi.org/10.3390/en16020923 (Impact Factor: 3) (SCIE Indexed, Q1 Journal)) 
+6. B. L. Narasimharaju, U. Ramanjaneya Reddy and R. Dogga, "Design and analysis of voltage clamped bidirectional DC–DC converter 
+for energy storage applications," in The Journal of Engineering, vol. 2018, no. 7, pp. 367-374, 7 2018, doi: 10.1049/joe.2018.0127.  
+Open Access, Online ISSN 2051-3305 (ESCI Indexed, Q2 Journal) 
+7. Dogga Raveendhra, Rached Dhaouadi, Habib-ur Rehman, Shayok Mukhopadhyay, “LC Impedance Source Bi-Directional Converter 
+with Reduced Capacitor Voltages”, Electronics 2020, 9(7), 1062; https://doi.org/10.3390/electronics9071062 . Open Access 
+(Impact Factor: 2.397) (SCIE Indexed, Q2 Journal) 
+8. Kumar, K.S.R.; Pandian, A.; Sastry, V.V.; Raveendhra, D. Capacitor Clamped Coupled Inductor Bi-Directional DC-DC Converter with 
+Smooth Starting. Machines 2022, 10, 47. https://doi.org/10.3390/machines10010047 Open Access (Impact Factor: 2.428) ( SCIE 
+Indexed, Q2 Journal) 
+9. Dogga Raveendhra, Poojitha Rajana, Ravi Kumar KS, Praveen Jugge, Ramesh Devarapalli, Eugen Rusu, Hady H. Fayek, “High Gain 
+Multi Phase Interleaved Differential Capacitor Clamped Boost Converter”,  Electronics 2022, 11(2), 264; 
+https://doi.org/10.3390/electronics11020264 Open Access (Impact Factor: 2.397) (SCIE Indexed, Q2 Journal)  
+10. Rao, D. S. N. M., Raveendhra, D., Kumar, D. G., Narukullapati, B. K., Rao, D. S., & Palakaluri, S. D. (2021). Comparison Investigation 
+into Power System Optimization and Constraint -Based Generator Load Scheduling Using Metaheuristic Algorithms. ECTI 
+Transactions on Electrical Engineering, Electronics, and Communications, 19(2), 200-208. (SCOPUS Indexed, Q3 Journal) 
+11. Satyesh, P. Ravikanth, D. Raveendhra, “Rectifier Load Analysis for Electric Vehicle Wireless Charging System using Fuzzy Logi c 
+Controller”, High Technology Letters, Vol. 27 (7), 2021. ISSN NO: 1006-6748 (Q3 SCOPUS Journal) 
+12. Vadlakonda Ranadeep, Dogga Raveendhra, “Control of Capacitively Coupled Impedance source type Wireless Power Transfer 
+Network “, High Technology Letters, Vol. 27 (7), 2021.  ISSN NO: 1006-6748 (Q3 SCOPUS Journal) 
+13. Keerthi Volisetty, Dola Gobindha  Padhan, Dogga Raveendhra, “Single Phase H Bridge Inverters Without Using Additional Power 
+Electronics by Power Decoupling Strategy “, High Technology Letters, Vol. 27 (10), 2021. ISSN NO: 1006-6748 (Q3 SCOPUS Journal) 
+(https://doi.org/10.37896/HTL27.10/4465) 
+14. Raveendhra, D.; Poojitha, et. al., Part II: State-of-the-Art Technologies of Solar-Powered DC Microgrid with Hybrid Energy Storage 
+Systems: Converter Topologies. Energies 2023, 16, 6194. https://doi.org/10.3390/en16176194.  (Impact Factor: 3) (SCIE Indexed, 
+Q1 Journal) 
+15.  Raveendhra, D., Lavanya, K., Ravi Kumar, K.S., Koreboina, V.B., Pakalapati, J. and Gopal, Y. (2025), Impact of Parasitics on the 
+Dynamic Performance of Capacitor Clamped Bidirectional DC –DC Converter. IET Power Electron., 18: 
+e70059. https://doi.org/10.1049/pel2.70059 [SCIE Journal, Impact Factor: 2] 
+16. G. Nagesh, D. Raveendhra et.al , "Extraction and Energy Management of Solar Photovoltaic, Fuel Cell, and Battery Systems Using 
+a Novel Multi Port Power Converter for DC Microgrid Applications," in IEEE Access, vol. 13, pp. 87418 -87437, 2025, doi: 
+10.1109/ACCESS.2025.3570190. [SCIE Journal, Impact Factor: 3] 
+17. G. Nagesh, D. Raveendhra, et.al "Integration of Renewable Energy Sources with Energy Storage Devices Using a Novel Four Port 
+Converter for DC Microgrid Applications," Engineering Research Express, DOI: 10.1088/2631-8695/ade224 [ESCI Journal, Impact 
+Factor: 1.5]. 
+18. Guguloth Nagesh, Dogga Raveendhra, et.al.; “High Voltage Gain Transformer-Less DC-DC Converter for Fuel Cell Electric Vehicles”, 
+IEEE Open Journal of the Industrial Electronics Society. (Impact Factor: 5.2) (Accepted). (ESCI Indexed, Q1 Journal)  
+19. Guguloth, Nagesh, Dogga Raveendhra , et.al.; “Four Port Non -Isolated DC -DC Converter for Fuel -Cell Electric Vehicles” IEEE 
+Transactions on Transportation Electrification (Under Review) 
+20. Guguloth, Nagesh, Dogga, Raveendhra , et.al.; “Operation and Analysis of a Four Port Non -Isolated DC-DC Converter for Energy 
+Storage Systems in DC Micro-Grid Applications” Journal of Energy Storage (Under Review) 
+21. Dogga Raveendhra, Douglas C Hopkins, Utkarsh Mehrotra, Hady H. Fayek, “Neutralized CMV Inverter (NCI) for Electrical Vehicle 
+Applications” IEEE Access (SCIE Indexed) (In Communication) 
+Patent Disclosures (Granted: 1, Published: 3) 
+22. Raveendhra Dogga, Ravi Kumar KS, A Pandian, V. V. Sastry Vedula, Poojitha Rajana, Praveen Jugge, “ High Gain Non-Isolated Bi-
+Directional DC-DC Converter” Granted on 09th November, 2021 (Patent No: 418205) 
+5 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+23. US Patent Disclosure: Douglas C Hopkins, Dogga Raveendhra, "Energy Re-Circulation Circuit and Controls for Applications including 
+Power Semiconductor Device Characterisation", Filed at Office of Technology Commercialisation and New Ventures, NCSU for US 
+patent. Ref. No: 17126 
+24. Indian Patent: Raveendhra Dogga, M K Pathak, "Novel Single-Stage Inverter", Application Number: 201641038706, Published 
+25. Indian Patent:  Ravi Kumar KS, Raveendhra Dogga, Nagesh Kumar, V V Sastry Vedula, Novel Capacitor Clamped Bidirectional DC -
+DC Converter, Application Number: 201641038706, Published 
+Book Chapters (6) 
+26. Dogga Raveendhra, M Prashanth, K Sudha, “Effects of Common Mode Voltage in ZSI based Induction Motor Drive for EV 
+applications”, 3rd International Conference on Machine Learning, Advances in Computing, Renewable Energy and Communication, 
+10-11 December 2021. 
+27. Dogga Raveendhra, K Sudha, M Prashanth, “Single Stage Power Conditioning Unit for Battery Assisted, Solar Powered Remote 
+Area Power Supply”, 3 rd International Conference on Machine Learning, Advances in Computing, Renewable Energy and 
+Communication, 10-11 December 2021. 
+28. Raveendhra D, Thakur P., Chauhan A. (2015), FPGA Controlled Power Conditioning System for Solar PV Fed PMDC Motor. In: 
+Kamalakannan C., Suresh L., Dash S., Panigrahi B. (eds) Power Electronics and Renewable Energy Systems. Lecture Notes in 
+Electrical Engineering, vol 326. Springer, New Delhi, Online ISBN: 978 -81-322-2119-7 (Indexing: ISI Proceedings, EI -Compendex, 
+SCOPUS, EI Compendex, MetaPress, Springerlink) 
+29. Chauhan A., Thakur P., Raveendhra D. (2015) Quantification of Voltage Unbalance Conditions. In: Kamalakannan C., Suresh L., 
+Dash S., Panigrahi B. (eds) Power Electronics and Renewable Energy Systems. Lecture Notes in Electrical Engineering, vol 326.  
+Springer, New Delhi, Online ISBN: 978 -81-322-2119-7. ( Indexing: ISI Proceedings, EI -Compendex, SCOPUS, EI Compendex, 
+MetaPress, Springerlink) 
+30. DBLP Lecture Notes in Computer Science Engineering: Raveendhra, Dogga, “Simulation-based study of FPGA based controller for 
+Single-Phase Matrix Converter for different types of loads”, IDES CPS in LSCS Series. (Indexing: Thomson ISI Proceedings, DBLP, IET 
+Inspec, Scopus, EI Compdex, Google Scholar, ProQuest, etc.) 
+31. Shiv Prakash Singh, Suneel Raju Pendem, Brij Kishor, Dogga Raveendhra and M Venkatesh Naik, “A Review on Hybridization and 
+Energy Management Strategies for Hydrogen based Fuel Cell Electric Vehicle Applications,” 1st Edition of Hydrogen Energy 
+Production, Storage and Utilization, Taylor & Francis.  
+Conference Proceedings (37) 
+32. D. Raveendhra, M. K. Pathak and A. Panda, "Power conditioning system for solar power applications: Closed loop DC-DC convertor 
+fed FPGA controlled diode clamped multilevel inverter," 2012 IEEE Students' Conference on Electrical, Electronics and Compute r 
+Science, Bhopal, 2012, pp. 1-4, doi: 10.1109/SCEECS.2012.6184820. (Indexed in SCOPUS) 
+33. D. Raveendhra, K. P. Guruswamy and P. Thakur, "FPGA based 2-stage power conditioning system for PV power generation," 2013 
+International Conference on Power, Energy and Control (ICPEC), Sri Rangalatchum Dindigul, 2013, pp. 44 -50, doi: 
+10.1109/ICPEC.2013.6527622. (EI indexed and Indexed in SCOPUS) 
+34. S. Semwal, D. Joshi, R. S. Prasad and D. Raveendhra, "The practicability of ICA in home appliances load profile separation using 
+current signature: A preliminary study," 2013 International Conference on Power, Energy and Control (ICPEC), Sri Rangalatchum, 
+Dindigul, 2013, pp. 756-759, doi: 10.1109/ICPEC.2013.6527756. (EI indexed and Indexed in SCOPUS) 
+35. D. Raveendhra, B. Kumar, D. Mishra and M. Mankotia, "Design of FPGA based open circuit voltage MPPT charge controller for 
+solar PV system," 2013 International Conference on Circuits, Power and Computing Technologies (ICCPCT), Nagercoil, 2013, pp. 
+523-527, doi: 10.1109/ICCPCT.2013.6529012. (Indexed in SCOPUS) 
+36. D. Raveendhra, P. Thakur and B. L. Narasimha Raju, "Design and small -signal analysis of solar PV fed FPGA based Closed Loop 
+control Bi-Directional DC-DC converter," 2013 International Conference on Circuits, Power and Computing Technologies (ICCPCT), 
+Nagercoil, 2013, pp. 283-288, doi: 10.1109/ICCPCT.2013.6529011. (Indexed in SCOPUS) 
+37. T. Saini, D. Raveendhra and P. Thakur, "Stability analysis of FPGA based perturb and observe method MPPT charge controller for 
+solar PV system," 2013 Students Conference on Engineering and Systems (SCES), Allahabad, 2013, pp. 1 -5, doi: 
+10.1109/SCES.2013.6547545. (Indexed in SCOPUS) 
+38. A. Chauhan, P. Thakur and D. Raveendhra , "Assessment of induction motor performance under supply voltage unbalance: A 
+review," 2013 Students Conference on Engineering and Systems (SCES), Allahabad, 2013, pp. 1 -6, doi: 
+10.1109/SCES.2013.6547498. (Indexed in SCOPUS) 
+39. D. Raveendhra, P. Prakash and P. Saini, "Simulation based analysis of FPGA controlled Cascaded H -Bridge Multilevel inverter fed 
+solar PV system," 2013 International Conference on Energy Efficient Technologies for Sustainability, Nagercoil, 2013, pp. 568-572, 
+doi: 10.1109/ICEETS.2013.6533447. (Indexed in SCOPUS) 
+40. S. Singh, M. Singh, S. Chanana and D. Raveendhra , "Operation and control of a hybrid wind -diesel-battery energy system 
+connected to micro -grid," 2013 International Conference on Control, Automation, Robotics and Embedded Systems (CARE), 
+Jabalpur, 2013, pp. 1-6, doi: 10.1109/CARE.2013.6733758. (Indexed in SCOPUS) 
+6 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+41. D. Raveendhra, P. Joshi and R. K. Verma, "Performance and control system design for FPGA based CVMPPT boost converter for 
+remote SPV water pumping system applications," 2014 POWER AND ENERGY SYSTEMS: TOWARDS SUSTAINABLE ENERGY, 
+Bangalore, 2014, pp. 1-6, doi: 10.1109/PESTSE.2014.6805305. (Indexed in SCOPUS) 
+42. D. Raveendhra, S. Faruqui and P. Saini, "Transformer less FPGA Controlled 2 -Stage isolated grid connected PV system," 2014 
+POWER AND ENERGY SYSTEMS: TOWARDS SUSTAINABLE ENERGY, Bangalore, 2014, pp. 1-6, doi: 10.1109/PESTSE.2014.6805304. 
+(Indexed in SCOPUS) 
+43. D. Raveendhra, R. Kumar and S. Singh, "Performance investigation of FPGA controlled central three-level diode clamped inverter 
+in two -stage solar photo voltaic (SPV) system," 2014 IEEE 2nd International Conference on Electrical Energy Systems (ICEES), 
+Chennai, 2014, pp. 206-211, doi: 10.1109/ICEES.2014.6924169. (Indexed in SCOPUS) 
+44. D. Raveendhra, P. R. u. Zaman and K. Govind, "FPGA controlled high gain bi-directional DC-DC converter (BDC) for energy storage 
+of solar power," 2014 I EEE 2nd International Conference on Electrical Energy Systems (ICEES), Chennai, 2014, pp. 300 -305, doi: 
+10.1109/ICEES.2014.6924185. (Indexed in SCOPUS) 
+45. D. Raveendhra and M. K. Pathak, "Modular multi-level inverter with self-healing power unbalancing capability in single stage solar 
+PV systems," 2017 IEEE 15th Student Conference on Research and Development (SCOReD), Putrajaya, Malaysia, 2017, pp. 402 -
+407, doi: 10.1109/SCORED.2017.8305356. (Indexed in SCOPUS) 
+46. D. Raveendhra, H. Mohan, M. K. Pathak and P. Rajana, "Model reference adaptive controller-based stand-alone solar PV pumping 
+system," 2017 IEEE 15th Student Conference on Research and Development (SCOReD), Putrajaya, Malaysia, 2017, pp. 408 -413, 
+doi: 10.1109/SCORED.2017.8305355. (Indexed in SCOPUS) 
+47. Dogga Raveendhra, Mohammed Mahdi, Ramy Hakim, Rached Dhaouadi, Shayok Mukhopadhyay, Nasser Qaddoumi, “ Wireless 
+Charging of an Autonomous Drone”, 6th International Conference on Electric Power and Energy Conversion Systems (EPECS -
+2020), Istanbul, Turkey, Oct. 5 –7, 2020. (Indexed in SCOPUS) 
+48. D. Raveendhra, Praveen. J and P. Rajana, "Capacitor Clamped Boost Inverter for Fuel Cell -based Distributed Generation system 
+with Battery Back Up," 2021 Fourth International Conference on Electrical, Computer and Communication Technologies (ICECCT), 
+2021, pp. 1-6. (Indexed in SCOPUS) 
+49. D. Raveendhra, J. Praveen and P. Rajana, "Mitigation of Electrical Inertia of PE Converters in Solar Powered HESS system for 
+Remote Area Power System Applications using Synergetic Controller," 2021 Fourth International Conference on Electrical, 
+Computer an d Communication Technologies (ICECCT), 2021, pp. 1 -8, doi: 10.1109/ICECCT52121.2021.9616698.  (Indexed in 
+SCOPUS) 
+50. M. Prashanth, D. Raveendhra, A. Giridhar and B. Narasimha Raju, "DC -Link Current Ripple Reduction in Switched Reluctance 
+Machine Drives," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 
+Hyderabad, India, 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909285. (Indexed in SCOPUS) 
+51. M. Prashanth, D. Raveendhra, A. Giridhar and B. Narasimha Raju, "Switched Reluctance Machine Drive Analysis with Fault-Tolerant 
+Power Converter," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 
+Hyderabad, India, 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909332. (Indexed in SCOPUS) 
+52. S. Kalathi, D. Raveendhra and N. Raju Bl, " Efficient single-phase grid connected transformer-less inverter with active and reactive 
+power control," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 
+Hyderabad, India, 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909332. (Indexed in SCOPUS) 
+53. S. Kalathi, D. Raveendhra and N. Raju Bl, "Single-Phase H6 Inverter with Hybrid Modulation Scheme for Solar PV application," 2022 
+IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2022, pp. 
+1-6, doi: 10.1109/SeFeT55524.2022.9909000. 2 (Indexed in SCOPUS) 
+54. D. G. Padhan, D. Raveendhra, S. Sahoo and V. Mahesh, "Comparative Analysis between Fuzzy and PR controller in Single-Phase H 
+bridge Inverters by Power Decoupling Strategy," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric 
+Transportation (SeFeT), Hyderabad, India, 2022, pp. 1-4, doi: 10.1109/SeFeT55524.2022.9909082. (Indexed in SCOPUS) 
+55. R. B, S. D. J, U. R. V and D. Raveendhra, "Performance and analysis of three phase SAPF under different control algorithms fo r 
+power quality problems," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation 
+(SeFeT), Hyderabad, India, 2022, pp. 1-8, doi: 10.1109/SeFeT55524.2022.9909033. (Indexed in SCOPUS) 
+56. T. Amulya, D. Raveendhra, J. Praveen and B. Narasimha Raju, "SPV Power Conversion using Bidirectional H6 Inverter with reduced 
+Common Mode Voltages," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation 
+(SeFeT), Hyderabad, India, 2022, pp. 1-7, doi: 10.1109/SeFeT55524.2022.9908980. (Indexed in SCOPUS) 
+57. T. Amulya, D. Raveendhra, J. Praveen and B. Narasimha Raju, "Performance of Dual Differential Parallel Buck Grid Connected 
+inverter for Solar Power Conversion," 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric 
+Transportation (SeFeT), Hyderabad, India, 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909470. (Indexed in SCOPUS) 
+58. Shiv Prakash Singh, Suneel Raju Pendem, Dogga Raveendhra, “A Review on DC -DC Converters for Fuel Cell Electric Vehicle 
+Applications,” 2024 IEEE students Conference on Engineering and Systems (SCES -2024), June 21-23, Prayagraj, India ( Indexed in 
+SCOPUS) 
+7 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+59. Abhinav Kumar Singh, Dogga Raveendhra “High Performance Solar Powered EV Charger”, 2024 IEEE 4th International Conference 
+on Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+60. Abhinav Kumar Singh, Dogga Raveendhra, Suneel Raju Pendem “Improved Filtering with Hybrid Damping Suppression in Grid 
+Connected Solar PV inverter”, 2024 IEEE 4 th International Conference on Sustainable Energy and Future Electric Transportation 
+(SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+61. Varun Sharma, Dogga Raveendhra, Souradip Dey, “Robust Controller for EV Onboard Charger for Grid Resilience under Weak Grid 
+Conditions” 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, 
+India, 2024 (Indexed in SCOPUS) 
+62. Siddhant Rao, Ankita Kumari, Dogga Raveendhra, BL Narasimha Raju, Aurobinda Panda, “Efficient Tracking Control Strategy for 
+High Voltage Gain Transformerless DC -DC Converter in DC Drive Applications”, 2024 IEEE 4 th International Conference on 
+Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+63. Gyanendra Vaishya, Dheeraj Saini, Yugal Patidar, Dogga Raveendhra, BL Narasimha Raju, Praveen J, “Development of 
+Characterization Circuit for Power Semiconductor Devices”, 2024 IEEE 4 th International Conference on Sustainable Energy and 
+Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+64. Mohammad Asif Ali, Nilesh Prakash Singh, Dogga Raveendhra, Suneel Raju Pendem, BL Narasimha Raju & Phaneendhra Babu B, 
+“Single Stage Isolated Power Conditioning Unit for Plugin Electric Vehicles On -Board Charger”, 2024 IEEE 4 th International 
+Conference on Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+65. Aman Keshari, Dogga Raveendhra, BL Narasimha Raju, Pradyumn Chaturvedi, U Ramanjaneya Reddy & Phaneendhra Babu B, 
+“Switched Reluctance Motor -based EV Drive with Bidirectional Grid Interaction”, 2024 IEEE 4 th International Conference on 
+Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+66. Maya Vijayan, Ramanjaneya Reddy U, Tarkeshwar Mahto, Narasimharaju B L, Raveendhra Dogga, “Independently controlled 
+single-input dual -output DC -DC converter for DC microgrid based PV -fed EV charging stations ”, 2024 IEEE 4 th International 
+Conference on Sustainable Energy and Future Electric Transportation (SeFeT), Hyderabad, India, 2024 (Indexed in SCOPUS) 
+67. Mohammad Asif Ali, Aman Keshri, Dogga Raveendhra, BL Narasimha Raju, “Higher Order Sliding Robust Control Design for Single-
+Stage Plugin Electric Vehicle “, international Transportation Electrification Conference (iTEC), INDIA 2025, Pune, India, 18 -20 
+September 2025. (Accepted) 
+68. Mohammad Asif Ali, Aman Keshri, Dogga Raveendhra, Sunil Raju Pendem, BL Narasimha Raju & Pradyumn Chaturvedi, “Robust 
+Controller for Single-Stage Isolated Power Conditioning Unit On-Board Charger”, The IEEE International Conference on Smart 
+Technologies for Power, Energy, and Control (STPEC-2025), Goa, 10-13 December, 2025. (Accepted) 
+69. Aman Keshari, Mohammad Asif Ali, Dogga Raveendhra, Suneel Raju Pendem, BL Narasimharaju, “Performance investigation and 
+characterization of High-Power Semiconductor devices using ERSC”, The IEEE International Conference on Smart Technologies 
+for Power, Energy, and Control (STPEC-2025), Goa, 10-13 December, 2025. (Accepted) 
+Projects 
+# Title Agency /Scheme/period Cost in Lakhs Tenure 
+1.  Design of low cost and highly efficient testing circuit 
+for power semiconductor device characterization 
+DST, Govt. of. India 44.7 2022-25 
+2.  Capacitor Clamped Boost Inverter for on-grid Solar 
+PV Applications 
+MSME, Govt. of. India 15 2022-23 
+3.  High Performance Switched Reluctance Motor Drive 
+for EV applications 
+R & C Department, MNNIT 5 2023-24 
+4.  Innovative research in energy efficiency and hybrid 
+energy-storage systems 
+Renewable Energy Research 
+Center, American University 
+of Sharjah, UAE 
+38.5 2019-20 
+5.  Capacitor Clamped Boost Inverter for Distributed 
+Power Generation using Renewable Energy Sources 
+GAIL Phank Scheme, GAIL 
+India Ltd. 
+140 2019-2021 
+6.  Capacitor Clamped Boost Inverter for Solar Power 
+Generation 
+TIDES Business Incubator, 
+IIT Roorkee 
+Prototyping grant of Rs. 
+80,000 + Incubation 
+Facilities for 2 years’ 
+worth of 22 Lakhs 
+Aug 2017 – 
+Aug 2020 
+7.  Single Stage Inverter for Solar PV System IUSSTF, Govt. of. India 10.4 2016 
+8.  Design of low cost and highly efficient testing circuit 
+for power semiconductor device characterization 
+Measure India Corporation 
+Private Limited 
+3 2022-23 
+Faculty Development Programs organised/Conducted 
+1. TPC Chair, SCES 2024 
+2. Session Chair, SCES 2024 
+3. Tutorial Chair, SeFeT - 2022 
+8 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+4. Co-Ordinator for Online Faculty Development Programme (FDP) on” Modelling, Simulation and Control of Advanced Power 
+Converters” during 28th March – 06th April, 2022 Organized by E & ICT Academy & Department of Electrical Engineering, NIT 
+Warangal in association with Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad (Sponsored by Ministry of 
+Electronics and Information Technology (MeitY), GOI). 
+5. Co-Ordinator for One Week Faculty Development Programme on “Recent Developments in Power Electronics and its 
+Applications”, organized by Electrical and Electronics Engineering Department, Vardhaman College of Engineering, Hyderabad, 
+during 31st Aug 2020 to 5th Sep 2020, in Association with Zunik Energies Pvt. Ltd. 
+6. Convener for Multi -Agent Systems and Distributed Control (MAS 2024) September 27 -31, 2024 Organized by Department of 
+Electrical Engineering Motilal Nehru National Institute of Technology 
+7. Co-Ordinator for Online Faculty Development Programme (FDP) on” Power Electronics, Energy Storage and Renewable 
+Technologies (PEESRT) for E-Transportation in India (Basic)  
+8. Co-Ordinator for Online Faculty Development Programme (FDP) on” Power Electronics, Energy Storage and Renewable 
+Technologies (PEESRT) for E-Transportation in India (Advanced)  
+9. Co-Ordinator for One Week Faculty Development Programme on “Recent Developments in Power Electronics”, organized by 
+Electrical and Electronics Engineering Department, Aditya Engineering College, Surampalem, during 12 st Nov 2018 to 17 th Nov 
+2018, in Association with Zunik Energies Pvt. Ltd.  
+10. Co-Coordinator for AICTE Sponsored Two Week FDP (Online -Phase-I) on "Sustainable Technologies for Electric Transportation 
+Systems” scheduled on 14th June 2021 – 26th June 2021. 
+Awards/ Honoured Positions 
+# Award/Honoured Position Awarded/ Honoured By Year 
+1. . Member Board of Studies (BoS)  KL University Dec 2025 
+2.  Resource Person AICTE–ATAL Faculty Development Programme (FDP) on Advanced Technologies 
+and AI/ML Integration in Microgrids and Electric Vehicles at Guru Nanak 
+Institute of Technology (GNIT) 
+Dec 2025 
+3.  Resource person  FDP on “Intelligent Power Electronics and Cyber-Physical Energy Systems for a 
+Sustainable Future” at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of 
+Science and Technology 
+Nov 2025 
+4.  Resource person Online Faculty Development Programme (FDP) on Advancements in Electric 
+Vehicles and Autonomous Mobility for a Sustainable Future (AEVAMSF) at BVRIT 
+Hyderabad and NIT Warangal 
+July 2025 
+5.  Speaker AICTE ATAL Online 6-Day Faculty Development Programme on “Emerging 
+Trends and Future Prospects in Advanced Energy Conversion Technologies and 
+Applications at VIT Bhimavaram 
+Aug 2025 
+6.  Expert Talk Online FDP on "Power Electronics Technology for Self-Reliant and Viksit Bharat 
+at NIT Warangal 
+Feb 2025 
+7.  Resource person  FDP on “Leveraging Advanced Power Conversion Systems and Artificial 
+Intelligence for Electric Vehicles at NIT Patna 
+May 2025 
+8.  Resource person  FDP on Design of Advanced Controller for Microgrid and Electric Vehicles at 
+Vignan Lara Institute of Technology 
+Jan 2025 
+9.  Expert Lecture the MSME-sponsored Five-Day Advanced-ESDP Programme on “Renewable 
+Energy Sources in Electric Vehicle and Distributed Generation Systems at NIT 
+Sikkim 
+Feb 2025 
+10.  Member Board of Studies (BoS)  KL University Aug 2025 
+11.  BOS Member EEE Department, KLU 2024 
+12.  Resource Person Sustainable Development: Intersection of Green Energy and eMobility (IGEEM-
+2024)” at NIT Rourkela 
+2024 
+13.  DCC Sub-Committee Member Quantum Technology Division, Telecommunication Engineering Center 2024 
+14.  Resource Person “AI&ML Tools for Material Science & Electrical Engineering Applications”, 
+Gayatri Vidya Parishad College of Engineering, Vizag 
+2024 
+15.  National Webinar as a Resource 
+Person 
+Webinar on “Electrifying Experiences: Design-Thinking the Future of EV 
+Mobility”, K.S. Rangasamy College of Technology, Tamilnadu 
+2024 
+16.  BOS Member EEE Department, KLU 2024 
+17.  Resource Person Anil Neerukonda Institute of Technology and Sciences, Andhra Pradesh. 2023 
+18.  Resource Person Delivered an Invited Lecture in ATAL sponsored FDP entitled on Certain Aspects 
+of Electric Vehicles to achieve Sustainable Energy, Vignan Lara Institute of 
+Technology, Vadlamudi 
+2023 
+19.  Keynote Speaker DST-SERB Sponsored Conference, KL University 2023 
+20.  Resource Person Delivered an Invited Lecture in ATAL sponsored FDP entitled “AI & Smart 
+Technology Applications to Solar energy and Electrical vehicles Technology - 
+Challenges, Issues and Hands-on" (AIST-SET), ATAL-FDP, BVRIT Narsapur 
+2023 
+21.  BOS Member EEE Department, KLU 2023 
+9 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+22.  Seminar Machine Learning, Computer Vision, and Dynamic Systems Group, The Skolkovo 
+Institute of Science and Technology, Russia 
+2023 
+23. 3 Invited Session FDP, MNNIT 2023 
+24. 4 Invited Session FDP, GRIET 2023 
+25. 5 Invited Session FDP, GRIET 2023 
+26.  Invited Session FDP, MNIT Jaipur 2022 
+27.  Invited Session FDP, SVNIT 2022 
+28.  Invited Session FDP, SVNIT 2022 
+29.  Excellence in Doctoral Research 
+Award (for best Ph. D. Work) 
+IIT Roorkee  2020 
+30.  BOS Member  VNIT Nagpur 2022 
+31.  Resource person in a Faculty 
+Development programme 
+Eight-day online FDP on “Modelling, Simulation & Control of Advanced Power 
+Converters”, at GRIET 
+2022 
+32.  Resource person in a Faculty 
+Development programme 
+Eight-day online FDP on “Power Electronics for Electric Vehicles and Renewable 
+Energy Systems during 16th – 24th March, 2022 
+2022 
+33.  Resource person in a Faculty 
+Development programme 
+Eight-day online FDP on “Applications of Power Electronics in Electric Vehicles & 
+Energy Storage”, at NITK 
+2022 
+34.  Resource person in AICTE-ISTE 
+Sponsored Induction/Refresher 
+Induction Programme 
+Online FDP on “Recent Trends in Electric Vehicles” 17th – 23rd February 2022 in 
+Online Mode at Vardhaman College of Engineering, Hyderabad, Telangana, 
+India. 
+2022 
+35.  Resource person in AICTE-ISTE 
+Sponsored Induction/Refresher 
+Programme 
+AICTE/ ISTE Refresher Programme (ONLINE) - Micro Grid: Integration and Power 
+Quality Issues - Dec. 7-13, 2021 
+2021 
+36.  Resource person in a Faculty 
+Development programme 
+CEP, NIT Warangal Sponsored Five-day online FDP on Potential Research Trends 
+in Advanced Energy Conversion Technologies and Applications, December 06 -
+10, 2021 at VIT Bhimavaram 
+2021 
+37.  Resource person in a Faculty 
+Development programme 
+ATAL Academy Sponsored Online Faculty Development Programme (FDP) on 
+“Electric Vehicle (EV) : Challenges and Technology Advancements" by NSIC, 
+Hyderabad 
+2021 
+38.  Resource person in a Faculty 
+Development programme 
+AICTE sponsored ATAL FDP on "ELECTRIC TRANSPORTATION INFRASTRUCTURE 
+FOR E-MOBILITY IN INDIA" to be held during 02 to 06, Aug 2021 
+2021 
+39.  Resource person in a Faculty 
+Development programme 
+AICTE Sponsored Two Week FDP (Online-Phase-I) on "Sustainable Technologies 
+for Electric Transportation Systems, GRIET 
+2021 
+40.  Guest Lecture Guest Lecture - Start-up Cell - KSRMCE 2021 
+41.  Guest Speaker  AICTE –ATAL Sponsored FDP on “ELECTRIC VEHICLES- RESEARCH ISSUES AND 
+CHALLENGES” GRG POLYTECHNIC COLLEGE 
+2021 
+42.  BOS Member KL University 2021 
+43.  Keynote Speaker in FDP Government Engineering College Raipur, Chhattisgarh 2020 
+44.  Keynote Talk Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal 2020 
+45.  Keynote Speaker Government Engineering College Raipur, Chhattisgarh 2020 
+46.  Resource person in a Faculty 
+Development programme 
+ATAL FDP/NMREC 2020 
+47.  Resource person in a Faculty 
+Development programme 
+ATAL FDP at Kallam Harinadh Reddy Institute of Technology 2020 
+48.  Resource person in a Faculty 
+Development programme 
+Vardhaman Engineering College Hyderabad 2020 
+49.  Guest Lecture KL University, Viziawada 2020 
+50.  Guest Lecture Vishakha Institute of Engineering & Technology 2020 
+51.  Resource person in a Faculty 
+Development programme 
+ATAL FDP at MVGR College of Engineering 2020 
+52.  Best Innovation Award Zunik Energies Pvt. Ltd 2019 
+53.  Who's Who in the World 2019 Marquis, USA 2019 
+54.  Resource person in a Faculty 
+Development programme 
+NIT, Warangal 2019 
+55.  Industry Expert for Board of 
+Studies 
+NIT Nagpur 2019 
+56.  Albert Nelson Marquis Lifetime 
+Achievement Award 
+Marquis Who's Who (USA) 2018 
+10 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+57.  Who's Who in the World 2018 Marquis, USA 2018 
+58.  Resource person in a Faculty 
+Development programme 
+Aditya Group of Engineering Colleges 2018 
+59.  Guest Lecture Dev Bhoomi Group of Institutes 2018 
+60.  Expert Lecture NITTTR, Chandigarh 2018 
+61.  Delegate for India-Italy Summit DST-CII, New Delhi 2018 
+62.  Most Promising Innovation 
+Award (1st Prize) 
+IKMC 2018 Start-up Exhibition 2018 
+63.  Mentor for start-ups SAIC, Thapar University 2018 
+64.  Session Chair IEEE SCOReD International Conference, Malaysia 2017 
+65.  International Travel Grant IIT Roorkee 2017 
+66.  Resource person in a Faculty 
+Development programme 
+MVGR College of Engineering 2017 
+67.  Judges Choice award TIDES-IITRHF 2017 
+68.  Bhaskara Advanced Solar 
+Energy Fellowship 
+DST, India 2016 
+69.  MHRD scholarship for M. Tech Ministry of Human Resource Development 2010-12 
+70.  MHRD scholarship for Ph.D. Ministry of Human Resource Development 2014-19 
+Reviewer for Journals 
+1. IEEE Transactions on Industrial Electronics (Impact factor of 6.498) 
+1. IEEE Transactions on Journal of Emerging and Selected Topics in Power Electronics (Impact factor of 5.177) 
+2. International Journal of Electrical Power and Energy Systems, Elsevier (Impact factor of 3.432) 
+3. Journal of Solar Energy, Elsevier (Impact factor of 3.469) 
+4. Power Electronics, IET (Impact factor of 1.6) 
+5. Generation, Transmission & Distribution, IET (Impact factor of 1.353) 
+6. International Transactions on Electrical Energy Systems (Impact factor of 1.085) 
+7. Renewable Power Generation, IET (Impact factor of 1.60) 
+8. Electric Power Components and Systems Journal, Taylor and Francis (Impact factor of 0.69)  
+9. Reviewer for IETE Journal of Research (Impact factor of 0.6) 
+10. Reviewer for IEEE Access 
+11. Reviewer for Mathematics and Computers in Simulation (Elsevier) 
+12. Bulletin of Electrical Engineering and Informatics (BEEI) 
+13. Journal of TELKOMNIKA (Telecommunication, Computing, Electronics and Control) 
+14. Indonesian Journal of Electrical Engineering and Computer Science 
+15. International Journal of Electrical and Computer Engineering (IJECE) 
+16. International Journal of Advances in Applied Sciences (IJAAS) 
+17. Journal of Computing and Digital Systems 
+18. Journal of Trends in Computer Science and Information Technology 
+19. International Journal of Robotics and Automation (IAES) 
+20. International Journal of Computing and Digital Systems (IJCDS) 
+21. IETE Journal of Research 
+22. International Journal of Green Energy 
+23. International Journal of Emerging Electric Power Systems (IJEEPS) 
+24. International Journal of Electrical Power and Energy Systems 
+25. International Journal of Engineering Science and Technology 
+Reviewer for IEEE Conferences 
+1. Reviewer for IEEE International Conference on Research & Development (SCOReD), 16-17 December 2013, Putrajaya, 
+Malaysia. 
+2. Reviewer for IEEE International Conference on Composite materials and Renewable Energy Applications  ICCMERA'2014, 22-24 
+January 2014, Sousse, Tunisia. 
+3. Reviewer for 2014 IEEE 8th International Conference on International Power Engineering and Optimization (PEOCO2014), 24-25 
+March 2014, Langkawi, Malaysia. 
+4. Reviewer for 23rd IEEE International Symposium on Industrial Electronics (ISIE 2014), June 1-4, 2014, Istanbul, Turkey. 
+5. Reviewer for 3rd International Conference on Frontiers in Intelligent Computing, Theory and Application  (FICTA-2014), Orissa, 
+India, 14-15 November 2014. 
+6. Reviewer for Annual Convention and International Conference on Emerging ICT for bridging future (CSI-2014), 12 Dec 2014. 
+11 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+7. Reviewer for Second International Conference on Information systems Design and Intelligent Applications  - 2015 (INDIA-2015) 
+Kalyani, India, January 8-9, 2015 
+8. Reviewer for Renewable Energy and Green Technology International Conference 2015 (REEGETECH'2015), Bali, Indonesia, 2 – 4 
+June 2015. 
+9. Reviewer for 2015 Advanced Research in Material Sciences, Manufacturing, Mechanical and Mechatronic Engineering 
+Technology International Conference (AR4MET2015), Bali, Indonesia, 2-4 June 2015 
+10. Reviewer for 2017 IEEE SCOReD held during 13th Dec 2017 to 14th Dec 2017 at Everly Hotel, Putrajaya, Malaysia 
+11. Reviewer for CENCON 2017-(2017 IEEE Conference on Energy Conversion (CENCON)) Kuala Lumpur, Malaysia on 30–31 October 
+2017 
+12. Reviewer for [ARiEET'2017] 2017 2nd Advanced Research in Electrical and Electronic Engineering Technology (ARiEET) 
+13. Reviewer for [RESEECS'2017] 2017 Recent Development in Sciences, Engineering, and Computer Sciences International 
+Conference 
+14. Reviewer for [I4CT'2018] 2018 4th International Conference on Computer, Communication and Control Technology 
+15. Reviewer for [SISTECH'2018] 2018 Symposium on Islamic Sciences and Technology  
+16. Reviewer for [AVAREIT'2018] 2018 2nd Advanced Research in Electronic Engineering and Information Technology International 
+Conference 
+17. Reviewer for the 2018 International Conference on Advances in Computing, Communications, and Informatics (ICACCI) 
+18. Reviewer for ICCMREA 2017 (2017 International Conference on Composite Materials & Renewable Energy Applications) 
+19. Reviewer for Green Energy Conference 2018 
+20. Reviewer for Conference on Engineering Education (ICEED 2018) 
+21. Reviewer for IEEE International Conference on Advanced Computational and Communication Paradigms (ICACCP-2018) 
+22. Reviewer for IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC 2018) 
+23. Reviewer for International Conference on Computing and Network Communications (CoCoNet'19) 
+24. Reviewer for IEEE Conference on Energy Conversion (CENCON 2019) 
+25. Reviewer for International Conference on Advanced Computational and Communication Paradigms (ICACCP 2019) 
+26. Reviewer for IEEE Transportation Electrification Conference (ITEC 2019) 
+27. Reviewer for International Symposium on Computer Vision and Machine Intelligence in Medical Image Analysis (ISCMM-2019) 
+28. Reviewer for IEEE International Conference on Power and Energy (PECon 2020) 
+29. Reviewer for Conference on Internet of Things and Embedded Intelligence, 2020 
+30. Reviewer for IEEE Toronto International Conference on Power and Energy (TICPE 2020)  
+31. Reviewer for International Conference on Electrical Engineering, Computer Science and Informatics (EECSI 2020) 
+32. Reviewer for Ahmad Dahlan International Conference Series on Engineering, Science and Information Technology 2020 
+33. Reviewer for Conference on Internet of Things and Embedded Intelligence 2020 
+34. Reviewer for IEEE International Conference on Power and Energy (PECON 2020) 
+Invited Talks 
+1. Speaker Invitation for INAIT Conference-2019, University of Cambridge, United Kingdom. 
+2. Speech Invitation from 7th Annual World Congress of Advanced Materials (W.C.A.M) 2018, in Xiamen, China with the theme 
+of “Innovation, Integration, Transformation, and Sustainability” 
+3. Got an Opportunity to present an Invited paper at MIC-Electrical 2014 (1st International Conference on Electrical Engineering 
+and Application), to be held in Athens, Greece: 4-6 April 2014. 
+4. Got an invitation to deliver a speech at 1st International Symposium on Energy Challenges and Mechanics, Aberdeen, Scotland, 
+UK, 8-10 July 2014. 
+5. Got an invitation to contribute a talk in a Session 02: Renewable energy at 3rd International Symposium on Energy Challenges 
+and Mechanics (ECM3) - towards a big picture, 7-9 July 2015, Aberdeen, Scotland, UK 
+6. Speech Invitation from the World Congress of Smart Energy-2017, Wuxi, China for Session 301: Solar PV Technologies 
+7. Speaker Invitation for 6th Annual World Congress of Advanced Materials-2017 (WCAM-2017, Xi’an) at Track702: Photovoltaics, 
+Solar Energy, Artificial Photosynthesis Materials and Devices. 
+Editor/ Associate Editor/ Lead Guest Editor 
+1. Associate Editor for International Journal of Applied Power Engineering (IJAPE), ISSN 2088 -8708, e-ISSN 2722-2578, p-ISSN 
+2252-8792, e-ISSN 2722-2624 (open access and free of charge journal). 
+2. Got an Invitation from SciencePG to propose a Special Issue in my research field and offered Lead Guest Editor , Science 
+Publishing Group, NEW YORK, U.S.A. 
+Technical Program Committee for Journals, Government Summits & Conferences  
+1. Technical Program Committee for IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC), 
+held in the Department of Electrical Engineering, Visvesvaraya National Institute of Technology, Nagpur, M.S., India during 
+25th to 26th September 2020 
+12 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+2. Technical Program Committee for IEEE International Conferences on Composite materials and Renewable Energy Applications 
+(ICCMERA'2015), Sousse, Tunisia, 22-24 January 2015. 
+3. Technical Program Committee for International Conference on Solar Energy and Building (ICSoEB’ 2015). 
+4. Program Committee for 2014 IEEE International Conference on Intelligent Energy and Power Systems , June 2-6, 2014, Kyiv, 
+Ukraine. 
+5. Technical Program Committee for IEEE International Conferences on Composite materials and Renewable Energy Applications 
+(ICCMERA'2014), Sousse, Tunisia, 22-24 January 2014 
+6. Technical Program Committee for International Conference on Computer Vision and Image Analysis applications  (ICCVIA’ 
+2014), 25-27 March 2014, Ras Al Khaimah, UAE. 
+7. Technical Program Committee for 2014 IEEE Conference on Energy Conversion  (CENCON 2014), 13–15 October 2014, Johor 
+Bahru, Malaysia 
+8. Technical Program Committee member for IEEE International Conference on Energy Conversion (CENCON 2015), Johor Bahru 
+Malaysia, 19-21 October 2015. 
+9. Technical Program Committee member for 2017 IEEE SCOReD to be held during 13th Dec 2017 to 14th Dec 2017 at Everly 
+Hotel, Putrajaya, Malaysia 
+10. Technical Program Committee member for CENCON 2017 -(2017 IEEE Conference on Energy Conversion (CENCON)) Kuala 
+Lumpur, Malaysia on 30–31 October 2017 
+11. Member for SIRS-2017 (Third International Symposium on Signal Processing and Intelligent Recognition Systems (SIRS'17)) 
+12. Member for IEEE TENSYMP 2017 (2017 IEEE Region 10 Symposium (TENSYMP)) 
+13. Technical Program Committee for International Biometrics & Smart Government Summit (IBMSGS’ 2014), 22-24 March 2014, 
+Dubai, UAE. 
+14. Technical Program committee member for the International Journal of Computing and Digital Systems (IJCDS). 
+Professional Memberships 
+1. IEEE Member 
+2. Member, Subcommittee of "Resonant and Soft Switching Converters" of IES Power Electronics Technical Committee (IEEE IES 
+PETC) 
+3. Full Member (MEEC) of the European Energy Centre 
+ 
+Technical Qualifications 
+Languages C, MATLAB, VHDL 
+Software Packages Xilinx System Generator, Altium, Eagle, MULTISIM, MATLAB, LabVIEW, PSIM, dSPACE Control desk, MS Office, 
+Arduino IDE, and CCStudio 
+Operating systems Windows, Ubuntu 
+Hardware Controllers 
+Used 
+FPGA Controller (Spartan-3E and Spartan-3A), DSP Controller     
+(TMS320F2812), dSPACE, Analog Controllers, Arduino MCUs (Arduino Due, Arduino Mega, Arduino Uno) and 
+TI Piccolo lunch Pad 
+Hardware’s designed Capacitor Clamped Boost Inverter, Multi-Level Inverter, DC-DC Converter 
+Research Works 
+1. LC Impedance Source Bi-Directional Converter (Renewable Energy Centre, American University of Sharjah, UAE) 
+ This project proposes an LC (Inductor and Capacitor) impedance source bi -directional DC –DC converter by redesigning after 
+rearranging the reduced number of components of a switched boost bi -directional DC–DC converter. This new converter with a 
+conventional modulation scheme offers several unique features, such as a) a lower number of components and b) reduced voltage 
+stress on the capacitor compared to existing topologies. The reduction of capacitor voltage stress has the potential of impro ving 
+the reliabi lity and enhancing converter lifespan. An analysis of the proposed converter was completed with the help of a 
+mathematical model and state-space averaging models. The converter performance under different test conditions is compared 
+with the conventional b i-directional DC –DC converter, Z -source converter, discontinuous current quasi -Z-source converter, 
+continuous current quasi-Z-source converter, improved Z-source converter, switched boost converter, current-fed switched boost 
+converter, and quasi switched boost converter in the Matlab Simulink environment. MATLAB/Simulink results demonstrate that 
+the proposed converter has lesser components count and reduced capacitors’ voltage stresses when compared to the topologies 
+mentioned above. A 24 V to 18 V LC-impedance source bi-directional converter and a conventional bidirectional converter are built 
+to investigate the feasibility and benefits of the proposed topology. Experimental results reveal that capacitor voltage stresses, in 
+the case of proposed topology a re reduced by 75.00% and 35.80% in both boost and buck modes, respectively, compared to the 
+conventional converter circuit. 
+2. Super capacitor Characterization (Renewable Energy Centre, American University of Sharjah, UAE) 
+ This project presents a simplified supercapacitor model and a universal adaptive stabilization, optimization (UAS+O) based 
+parameter identification technique. Analytic solutions for the description of supercapacitors current, voltage, subject to cy clic 
+13 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+voltage and current sources of varying amplitudes and frequency, consistent with electric vehicle driving cycles, are develop ed. 
+Supercapacitor I-V relationships show hysteresis, indicating simultaneous energy storage and dissipation mechanisms. A reduced 
+equivalent circuit model is proposed to accurately represent hysteresis I -V characteristics. The proposed UAS+O based technique 
+for estimating model parameters, is supported by mathematical proofs, simulation, and experimental results. 
+3. Novel Testing Circuit for Power Electronic Device Characterization: (FREEDM Systems Centre, NC State University) 
+ A novel energy recirculation circuit utilizes the concept of energy recirculation, with the power augmentation capability, is  
+proposed. Proposed ERSC can be used as a device in -situ testing unit, by utilizing naturally occurring high electrical stresses on  
+devices from a low-cost low-power source to supply energy for high power testing of power electronic devices. This topology allows 
+devices to be examined at full -power stresses without connected with high power load and also without demanding high power, 
+by storing and recirculating the energy of the energy storage elements, which elevates the capability of source power. This 
+converter can operate in four different modes of operation, namely, soft start, magnetize, charge and energy recirculation modes 
+with the four active states of operations attained by two active switches of the proposed converter. Another feature of this 
+converter is, based on the devices under test devices performance these two circuits can be designed to operate in a synchronous 
+or asynchronous manner, i.e., faster devices or slower devices can be tested.  
+For in-situ testing of high current and/or voltage devices, this circuit offers several advantages such as simple circuit design, do es 
+not demand any high voltage step -up transformer for realizing high voltages/currents, can be able to operate from low vol tage/ 
+power supply, cheapest solution and also provides fast response in comparison with conventional cascaded boost/buck and 
+cascaded buck/boost ERSCs.  To validate the concept, simulations are carried for testing of 1.2KV and 100A using 100V and 8A.  
+And, the same is going to prove with the help of a lab-made prototype. 
+4. Development of Efficient Single-Stage Power Converter System for Solar PV applications (IITR) 
+1. Design and modelling of single -phase and three -phase capacitor clamped boost dc -ac inverters, which can develop a power 
+conditioning system without demanding series-connected PV modules due to its intrinsic boost capability.  
+2. To address the issue related to safety requirements in a solar PV system without demanding more power electronic switches to 
+provide a dual grounding concept, a high gain power conditioning system can be developed. 
+3. Efficiency is increased and overall costs are lowered by achieving MV grid integration with only one step -up transformer, the 
+inverter includes an MV-level transformer with a high turn’s ratio. Large-scale PV system architectures with reduced transformer 
+stages can be realized by using high-gain and high-quality power conditioning systems [26]. To meet this objective three phase’s 
+high gain and high-quality power conditioning system has been proposed. 
+4. To develop a solution for the power decoupling issue and to increase the conversion efficiency by reducing the ripples at the  
+input side, a waveform control method can be adopted in the proposed converter. In this method, the low -frequency power 
+pulsation caused by ac output is absorbed by the capacitors while the input source (solar) kept a constant supply of dc power 
+to the capacitors, thereby eliminating the effect of low -frequency ripple from affecting the properties of source (solar). Since 
+capacitor voltages can be large without affecting the desired ac output voltage, capacitors of the inverter can be minimized. 
+This allows the use of ﬁlm capacitors over electrolytic capacitors, thereby improving the inverter’s lifetime.  
+5. Modelling of the proposed converter along with sliding mode controller for dynamic control, Reference tracking, Disturbance 
+rejection and Wide range of control. To achieve high-performance feedback control for the system, an accurate and well-defined 
+model is required. The small-signal model of the proposed converter will be developed so that the sliding mode controller design 
+can be done by using the non-linear control theory. Since SMC is normally used to control boost inverter and boost inverter also 
+suffers from the above mention problems. Solving this issue will have a significant positive impact on sliding mode controller -
+based boost inverters or buck-boost inverters. To address this problem Fixed frequency sliding mode controller is proposed. 
+6. System development and Experimentation: Prototype hardware will be developed for the proposed converter using a digital 
+controller platform (FPGA/dSPACE kit) for control of power devices. Some of the simulation's results of the proposed converter 
+system will be validated through this hardware set up.  
+5. Improved Power Quality Transformerless Power Converters for Solar PV applications (IITR) 
+To further enhance the conversion gain, coupled inductor-based capacitor clamped boost inverter has been proposed. This chapter 
+introduces coupled inductor-based capacitor clamped 3-phase DC-AC boost inverter with an intrinsic step-up ability by utilizing the 
+small passive components. The main objective of this proposed inverter is to reduce the usage of capacitors (generally preferred to 
+increase the gain), which are a weakest reliable element in the inverter design. By shifting the filter components from ac side to 
+intermediate place, inverter can attain boost capability as well as good power decoupling ability, since shifted capacitor acting as a 
+good power decoupling element. Furthermore, modulating waveforms are altered such a way that voltages across t he capacitors 
+are decreased. Reduced voltage stresses on capacitors lead to better reliability and enhanced lifespan of the inverter. This inverter 
+performance under different test conditions is compared with boost converter fed voltage source inverter (BVSI), Z-Source Inverter 
+(ZSI), quasi Z-Source Inverter (q-ZSI), Switched Boost Inverter (SBI), Current -Fed SBI (CF-SBI), quasi SBI (qSBI), Improved ZSI (IZSI), 
+Switched Inductor-ZSI (SL-ZSI), Switched Inductor -qZSI (SL-qZSI), Diode Assisted qZSI (DA -qZSI), Capacitor Assisted qZSI (CA -qZSI), 
+Extended Boost ZSI (EB-ZSI), Extended Boost qZSI (EB-qZSI) and CCBI; MATLAB Simulink results demonstrated that proposed inverter 
+capabilities are superior to above-mentioned topologies. A 1200W experimental prototype has been built to validate the feasibility 
+and benefits of the system. Simulation and experimental results reveal that proposed inverter offers better power quality, reliability 
+14 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+and high lifetime. 
+6. Development of Converter System for Solar PV Power Generation: (IITR) 
+Renewable energy resources will be an increasingly important part of power generation in the new millennium. The main objective 
+of this project is to develop a power conditioning system, which can be used to extract the variable DC power from the sun. I t is 
+converted into fixed dc by using DC-DC boost converter and then converted into AC power by using 3- level diode clamped inverter, 
+to feed AC load effectively. In this project simulation results of the FPGA Controlled Photovoltaic (PV) power conditioning system 
+for AC, loads are presented. The power conditioning system consists of a diode clamped three -level inverter fed by a closed -loop 
+voltage-controlled DC-DC Boost converter. This closed-loop control of the DC-DC converter is implemented by a conventional Pulse 
+Width Modulator (PWM) with a duty cycle ratio control method. This boost converter is designed to obtain regulated voltage from 
+the variable DC supply. A level shifts sinusoidal PWM is used to control the multilevel inverter on FPGA.  
+7. Simulation of SPMC based Cycloconverter (6months)  
+The backbone of the modern industry is electrical drives. Tremendous changes in speed control of electrical machines have bee n 
+taken place with the development of power electronics. Nowadays, AC motors are also used for variable speed applications. At 
+present in speed control of AC machines, single phase Cyclo Converters are widely used for AC#AC power conversion. In this project, 
+Single Phase Matrix Converter (SPMC) Topology using IGBT#s as power switches is used for Cyclo Converters operation in place of 
+the conventional thyristor as it offers many advantages. In this project, a well -known Sinusoidal Pulse Width Modulation (SPWM) 
+scheme is used for generating gate pulses to IGBT#s. This project presents work on modelling and simulation of Cyclo Converte rs 
+using MATLAB/Simulink incorporating the Sim Power System Block set. 
+Industrial Training 
+Attended an Industrial Training for 1 month on ‘Protection and Detection of 3-Phase Transformers faults and its diagnosis’ at WICORE 
+PVT Industries Ltd. in Dec, 2008. 
+Guided Dissertations (12): 
+ 
+Guided 8 M. Tech Projects and 25 students for their Academic B. Tech Projects 
+# Duration Name of the 
+Candidate 
+Name of the dissertation                                     University 
+1.  July’12 – 
+June’13 
+Mr. Prachetha 
+Prakash 
+Development of Cascaded H-Bridge MLI for solar PV systems Graphic Era University, 
+Dehradun 
+2.  July’12 – 
+June’13 
+Ms. Minakshi 
+Rawat 
+Development of Bi-Directional DC-DC Converter for Solar 
+Applications  
+Graphic Era University, 
+Dehradun 
+3.  July’12 – 
+June’13 
+Ms. Tripti Saini Development of MPPT charge controller for photovoltaic solar 
+PV system 
+Graphic Era University, 
+Dehradun 
+4.  July’13 – 
+June’14 
+Mr. Prawal Joshi Performance and Control System Design for FPGA based 
+CVMPPT Boost Converter for Remote SPV Water Pumping 
+System Applications 
+Graphic Era University, 
+Dehradun 
+5.  July’13 – 
+June’14 
+Mr.Parwez 
+Ridwan 
+FPGA Controlled High Gain Bi-Directional DC-DC Converter 
+(BDC) for Energy Storage of Solar Power 
+Graphic Era University, 
+Dehradun 
+6.  July’13 – 
+June’14 
+Mr. Rahul Kumar Performance Investigation of FPGA Controlled Central Three-
+Level Diode Clamped Inverter in Two-Stage Solar Photo Voltaic 
+(SPV) System 
+Graphic Era University, 
+Dehradun 
+7.  July’13 – 
+June’14 
+Mr. Saad Faruqui 
+(Co-Supervisor) 
+Transformer Less FPGA Controlled 2-Stage Isolated Grid-
+Connected PV System 
+Graphic Era University, 
+Dehradun 
+8.  July’17 – 
+June’18 
+Mr. Surya Kiran 
+(Co-Supervisor) 
+Common Mode Voltage Reduction Techniques in Induction 
+Motor Drive 
+JNTU Kakinada 
+9.  July 2021 V Ranadeep Control of Capacitive Coupled Impedance source type Wireless 
+Power Transfer Network 
+GRIET, Hyderabad 
+10.  July 2024 Varun Sharma Bidirectional AC-DC Converters for EV Chargers with PFC and 
+V2G Capabilities 
+MNNIT, Allahabad 
+11.  July 2024 Abhinav Kumar 
+Singh 
+High Performance Power Electronic Converter for Solar PV 
+Applications 
+MNNIT Allahabad 
+12.  July 2024 Jyotirmoy Saharia Isolated DC-DC Converters for EV Application MNNIT Allahabad 
+13.  July 2025 Mohammad Asif 
+Ali 
+Improved Performance On-board charger for EV Application MNNIT, Allahabad 
+14.  July 2025 Aman Keshari Characterization of Wide Bandgap Power Semiconductor 
+Devices for improved Performance and EMI Mitigation 
+MNNIT Allahabad 
+15.  July 2025 Shikha Barti High Gain Converter based Renewable Energy Integration in 
+DC Microgrid 
+MNNIT Allahabad 
+15 | P a g e 1 5  
+RESUME OF DR. DOGGA RAVEENDHRA | MNNIT 
+Workshops & Seminars 
+1  Participated in Workshop on Advanced Control and computing technologies for reliable Industrial Electricity saving (acctries-
+2014) from 17-18 Feb. 2014 Organized by Department of Water Resources Development and Management & Indian Water 
+Resources Society (IWRS) at Department of Water Resources Development and Management, IIT Roorkee.  
+2  Attended an AICTE recognized ICT based program 5 days’ workshop, “The FDP on soft computing”, NITTTR, Chandigarh, 11- 15 
+November 2013. 
+3 Attended a National Workshop on MATLAB and its Applications" conducted at GMR Institute of Technology in Dec 2008.  
+4 Organized an IEEE associated workshop 'CIRCUIT SAPIENS' on MATLAB and PCB Design for Engineers at Graphic Era University in 
+Mar 2013. 
+5 Delivered a Seminar at IEEE International Conference at MNNIT, Bhopal 
+6 Delivered a Seminar at the IEEE International Conference at PSNA College of Engineering. 
+7 Delivered a Seminar at the IEEE International Conference at PSNA College of Engineering. 
+8 Delivered a Seminar at IEEE International Conference at Nagapatnam. 
+9 Delivered a Seminar at National Conference at MVGR, Vizainagaram. 
+10 Curriculum seminars at IIT Roorkee 
+Personal Details 
+Father’s name Venkata Rao Dogga 
+Date of birth 18th April 1988 
+Gender Male 
+Marital Status Married 
+Nationality     Indian 
+Linguistic Proficiency Telugu, English, Hindi 
+Permanent address 10-82, Srinivasa Colony, Srungavarapukota, Vizianagaram District, Andhra Pradesh-535145 
+Address for correspondence IHA-003, Staff Colony, MNNIT Allahabad, Uttar Pradesh 211004 
+References 
+Prof. M. K. Pathak  Prof. B L Narasimha Raju Prof. Rached Dhaouadi Mrs. Poojitha Rajana  
+Professor Professor Professor   Director 
+Electrical Engineering 
+Department 
+Electrical Engineering 
+Department  
+College of Engineering Zunik Energies (P) Ltd. 
+IIT Roorkee NIT Warangal   American University of Sharjah I-2, TIDES, IIT Roorkee 
+mukesh.pathak@ee.iitr.ac.in blnraju@nitw.ac.in rdhouadhi@aus.edu  ceo@zunikenergies.com 
+01332-285597 +91-9448401052 +971-505393239 +91-7989308266 
+I hereby declare that all the information provided above by me is correct to the best of my knowledge. 
+Date: 25/10/2024    
+Place: Prayagraj, India                                                                                     
+  Dr. Dogga Raveendhra 
+ 
+ 
+ 
+2-Page Brief Biodata after joining MNNIT [2023-25]  Page 1 of 2 
+ 
+2-Page Brief Biodata after joining MNNIT [2023-25] 
+  
+1. Summary of Academic/Research Activities & Accomplishments: 
+Prototype Developed 
+ 
+  
+Publications (Journals, Patents, Book Chapters and Conferences): Citations: 605, h-index: 14, i10-index: 15 
+Over all publications: Journals – 16 + 01 (Accepted), Conference Proceedings - 37, Book Chapters - 06 
+Patents: Granted - 01, Filed - 03, Preparation – 01 
+After Joining MNNIT: Journals – 04 + 01 (Accepted), Conference Proceedings - 12, Book Chapters - 01 
+Patents: Preparation – 01. 
+2. Administrative/Developmental/ Implementation projects/Equivalent works: 
+National Level:  
+• Member, Development Coordination Committee (DCC) Sub -Committee of Quantum Technology Division in TEC, Govt. of India 
+[National Level] 
+Institute level activities:   
+Current Positions:  
+• Associate Faculty In-Charge [scholarships] [Institute Level] 
+• Convener, Institute Committee for Center for Sustainable Energy [Institute Level]  
+Past Positions: 
+• Associate Faculty In-Charge [Students Counselling (Boys)] [Institute Level] 
+Department level activities: 
+Current Positions:  
+• Faculty In-Charge Institute-Industry Relations & Visits [Department Level] 
+• Faculty In-Charge Departmental Report [Department Level] 
+• Coordinator, Website Management and Database Committee, EED [Department Level] 
+• Dy. Coordinator, NBA (U.G.) Committee [Department Level] 
+• Member, DMPC (EED) [Department Level] 
+• Member, DMSC (EED) [Department Level] 
+Past Positions: 
+• O.C. (Officer-in-Charge) for Power Electronics Lab, EED [Department Level] 
+• Department Doctoral Selection Committee, EED, MNNIT [Department Level] 
+• Coordinator, Website Management and Database Committee, EED [Department Level] 
+• Faculty Representative (EED) for Indian Science Technology and Engineering facilities Map (I -STEM), an initiative of Govt. of India, 
+under the PM-STIAC mission [Department Level] 
+• Member, DUGC (EED) [Department Level] 
+• Member, DMPC (EED) [Department Level] 
+3. Outreach Activities (Mentioned a few): 
+a. DCC Sub-Committee Member, Quantum Technology Division, Telecommunication Engineering Center, 2024 
+b. BOS Member, EEE Department, KLU, 2023 
+c. BOS Member, EEE Department, KLU, 2024 
+d. TPC Chair, SCES-2024 [IEEE International Student’s Conference] 
+e. Session Chair, SCES-2024 [IEEE International Student’s Conference] 
+f. Session Chair, IEEE-ICSPE 2024 [IEEE International Conference] 
+g. Resource Person, Two Weeks ATAL FDP on Agricultural PV Systems and Electric Vehicles: "Pioneering Sustainable Energy and 
+Transportation Solutions", Vignan Lara Institute of Technology, Vadlamudi, 2024 
+h. Resource Person, Sustainable Development: Intersection of Green Energy and eMobility (IGEEM-2024)” at NIT Rourkela [2024] 
+
+ 
+ 
+2-Page Brief Biodata after joining MNNIT [2023-25]  Page 2 of 2 
+ 
+i. Resource Person, “AI&ML Tools for Material Science & Electrical Engineering Applications”, Gayatri Vidya Parishad College of 
+Engineering, Vizag, [2024] 
+j. National Webinar as a Resource Person, Webinar on “Electrifying Experiences: Design-Thinking the Future of EV Mobility”, K.S. 
+Rangasamy College of Technology, Tamilnadu, [2024] 
+k. Resource Person, Anil Neerukonda Institute of Technology and Sciences, Andhra Pradesh., [2023] 
+l. Resource Person, Delivered an Invited Lecture in ATAL sponsored FDP entitled on Certain Aspects of Electric Vehicles to achieve 
+Sustainable Energy, Vignan Lara Institute of Technology, Vadlamudi, [2023] 
+m. Keynote Speaker, DST-SERB Sponsored Conference, KL University, [2023] 
+n. Resource Person, Delivered an Invited Lecture in ATAL sponsored FDP entitled “AI & Smart Technology Applications to Solar 
+energy and Electrical vehicles Technology - Challenges, Issues and Hands-on" (AIST-SET), ATAL-FDP, BVRIT Narsapur, [2023] 
+o. Examiner for Ph. D Thesis/ PG Dissertation: Osmania University. 
+p. Details of seminars, conference, summer and winter schools/workshops organised at MNNIT: 
+i. Title:  Mastering MATLAB & Simulink for Engineering Design, sponsored by: MNNIT and MATLAB, Period: 16th (Friday) 
+to 17th (Saturday) February, 2024, Number of Participants attended: 44 
+ii. Convener, STTP “MAS – 2024” 
+q. Reviewer for IEEE Trans & IET Journals, Conferences and IEEE Conference Papers 
+4. Research & Entrepreneurship Credentials:  
+• Sponsored R&D Projects: 06 
+1) Single Stage Inverter for Solar PV System, IUSSTF, Govt. of. India, Rs.10.4 Lakhs, 2016. 
+2) Capacitor Clamped Boost Inverter for Solar Power Generation,  TIDES Business Incubator, IIT Roorkee, Prototyping grant  of Rs. 
+80,000 + Incubation Facilities for 2 years’ worth of Rs.22 Lakhs, Tenure-2017-2020. 
+3) Capacitor Clamped Boost Inverter for Distributed Power Generation using Renewable Energy Sources, GAIL Phank Scheme, GAIL 
+India Ltd., funding for Start-up.  
+4) Capacitor Clamped Boost Inverter for on-grid Solar PV Applications, MSME, GoI, Rs.15.00 Lakhs, Tenure-2022-23. 
+5) Design of low cost and highly efficient testing circuit for power semiconductor device characterization, DST GoI, Rs.44.7 Lakhs, 
+tenure-2022-25 [GRIET, Hyderabad]. 
+6) High Performance Switched Reluctance Motor Drive for EV applications, R&C Department, Research seed Grant, MNNIT 
+Allahabad, Rs.5Lakhs, Tenure-2023-24. 
+• Start-up Activities: M/s. Zunik Energies Pvt Ltd., Incubated Start-Up of IIT Roorkee and funded by IIT Roorkee, since 25th Sept 2017 
+[Co-Founded during Ph.D.]. This Start-up supported by GAIL [GAIL Phank Scheme] 
+5. Fresh Project proposals submitted 
+• Indo-Russia Joint Proposal – 2024 
+o Project Title: DC Microgrid Based Electric Vehicles Charging Station Powered by Renewable Energy Sources 
+• ANRF ECRG – 2024 
+o Project Title: Efficient On-Board EV Charger with Reconfigurable Design for Universal Grid Access, V2X Support, and 
+Adaptive Voltage Compatibility 
+• ANRF MAHA EV Mission in Collaboration with IIT Roorkee 
+o Project Title: Modular Power Electronics Interface for Extreme Fast Charging EV Systems with multiple Power Sources 
+• ANRF MAHA EV Mission in Collaboration with NIT Warangal 
+o Project Title: Next-Gen EV Charging Solutions: A Cost -Effective, Modular Power Conditioning System for Intelligent EV 
+Infrastructure 
+• ANRF MAHA EV Mission in Collaboration with VIT, Vellore 
+o Project Title: Development of high efficiency motor control strategies for advanced drives in Electric Vehicles and the 
+health management using Digital Twin and AI 
+• ANRF MAHA EV Mission in Collaboration with TEC, Tamilnadu 
+o Project Title: Next-Generation Electric Vehicles: Integrated Advanced Wide Bandgap -based Power Converters, Charging 
+Systems, and Health Management Solutions 
+6. Academic Qualification (Undergraduate Onwards) 
+# Degree Year Subject/ Specialization/ Thesis Title Institute/ 
+University Class/Division/% of marks 
+1. Ph. D. 2019 Improved Power Quality Transformer Less Power 
+Converters for Solar PV Applications 
+IIT Roorkee A grade (Excellence in Doctoral 
+Research Award) 
+2. M. Tech 2012 Power Electronics  IIT Roorkee First Class (88.33%) 
+3. B. Tech 2009 Electrical & Electronics Engineering JNTU Kakinada First Class (65.63%) 
+Thesis Foreign examiner Prof. Bimal K Bose, a pioneer of Power Electronics , gave the following comments in appreciation of my PhD thesis 
+work.  
+ 
+*********************************** 
+
+ 
+Products Developed 
+ 
+My research interests lie in the interface of Wide Band-Gap Devices, Renewable Energy Sources, Advanced 
+Power Electronics, Micro-grids, Switched mode Power supply. FPGA, DSP controllers for PE Application, Power 
+systems, and IoT based Smart Power Converters for EVs. I believe in a multidisciplinary research approach and 
+I stand for teamwork and enjoy the enrichment of collaboration, both withi n my field and between f ields. 
+Finally, I hope to find an environment that will enable me to continue enjoying productive collaboration and 
+intellectual growth.  
+The following section provides you further details of my research till now and the outcomes of the project. 
+1. Research Directions 
+Project 1: Electric Vehicle two-wheeler (Zunik Energies Pvt. Ltd., I-2, TIDES, IIT Roorkee) 
+Vdc= 48V/60V  
+Po=1KW 
+Wide band gap devices 
+Single Stage Conversion 
+Compatible for 48V upto 1kW Motor 
+Variants:  
+1. Compact Converter (6cm x 4cm) 
+2. Smooth Input Current – High Battery Life 
+3. Effective DC Bus utilization 
+4. Reduced Current stress on batteries  
+5. Advanced PWM techniques  
+6. Reduced Common mode voltages 
+ 
+Project 2: Solar PV Inverter with intrinsic boost abilities (Zunik Energies Pvt. Ltd., I-2, TIDES, IIT Roorkee) 
+ 
+  
+
+ 
+Project 3: Super capacitor Characterization (Renewable Energy Center, American University of Sharjah, UAE) 
+This project presents a simplified supercapacitor model and a universal adaptive 
+stabilization, optimization (UAS+O) based parameter identification technique. 
+Analytic solutions for the description of supercapacitors current, voltage, subject 
+to cyclic voltage and cur rent sources of varying amplitudes and frequency, 
+consistent with electric vehicle driving cycles, are developed. Supercapacitor I -V 
+relationships show hysteresis, indicating simultaneous energy storage and 
+dissipation mechanisms. A reduced equivalent circ uit model is proposed to 
+accurately represent hysteresis I -V characteristics. The proposed UAS+O based 
+technique for estimating model parameters, is supported by mathematical proofs, 
+simulation, and experimental results. 
+Project 4: LC Impedance Source Bi -Directional Converter  (Renewable Energy 
+Center, American University of Sharjah, UAE) 
+This project proposes an 
+LC (Inductor and 
+Capacitor) impedance 
+source bi-directional DC–
+DC converter by redesigning after rearranging the 
+reduced number of components of a switched boost 
+bi-directional DC–DC converter. This new converter 
+with a conventiona l modulation scheme offers 
+several unique features, such as a) a lower number of 
+components and b) reduced voltage stress on the 
+capacitor compared to existing topologies. The 
+reduction of capacitor voltage stress has the 
+potential of improving the reliabi lity and enhancing 
+converter lifespan. An analysis of the proposed 
+converter was completed with the help of a mathematical model and state -space averaging models. The 
+converter performance under different test conditions is compared with the conventional b i-directional DC–
+DC converter, Z-source converter, discontinuous current quasi Z -source converter, continuous current quasi 
+Z-source converter, improved Z -source converter, switched boost converter, current -fed switched boost 
+converter, and quasi switched boost converter in the Matlab Simulink environment. MATLAB/Simulink results 
+demonstrate that the proposed converter has lesser components count and reduced capacitors’ voltage 
+stresses when compared to the topologies mentioned above. A 24 V to 18 V LC -impedance source bi -
+directional converter and a conventional bidirectional converter are built to investigate the feasibility and 
+benefits of the proposed topology. Experimental results reveal that capacitor voltage stresses, in the case of 
+proposed topology are reduced by 75.00% and 35.80% in both boost and buck modes, respectively, compared 
+to the conventional converter circuit. 
+Project 5: Performance Investigation of 200KW Sic Inverter (FREEDM Systems Centre, NC State University) 
+The Project presents the characteristics of the latest commercial 1200V 300A SiC MOSFET modules used Agile 
+Switch Inverter and compares its performance with Si IGBT with the same rating using experimental results 
+and the LTSpice software environment. Our SiC MOSFET model in LTSpice gives accurate results across a wide 
+range of temperatures. The results show that the 1200V SiC MOSFET has faster switching speed and 
+significantly less switching loss compared to the Si IGBT. 
+The main objective of this SiC-based project is to develop 
+the modulation and control scheme using FGPA to 
+investigate the performance at higher switching speeds. 
+Moreover, the Si IGBT switching loss will increase 
+significantly for higher operation temperature, while the 
+SiC MOSFET switching loss has little variatio n over 
+different temperatures. This project also investigated the 
+stray inductance effect on the gate, drain, and source 
+side and verifies its performance with Si IGBT. 
+
+ 
+Project 6: Novel Single Stage Boost Inverter (FREEDM Systems Centre, NC State University) 
+This Project introduces a novel type of 3 -phase 
+single stage dc-ac converter, which is controlled by 
+sliding mode control, offers an intrinsic step up 
+abilities. The proposed inverter is designed with the 
+lesser number of solid -state semiconductor 
+switches and small passive elements. Sliding mode 
+controller (robust controller) is designed to control 
+this power converter in order to achieve high 
+robustness, sustain any kind of line or load 
+variations and achieve a good dynamic response. In 
+addition to th is, the voltage across every capacitor 
+is less when compared with existing traditional boost inverter topologies, which leads to better reliability and 
+enhanced lifespan of the converter. This scheme also offers very less harmonic in the output voltage and  
+currents. The proposed scheme is tested for a different line and load varying conditions on MATLAB Simulink 
+environments as well as on a prototype. A 500W prototype has been fabricated and experimented to validate 
+the feasibility and benefits of the syste m. Simulation and Experimental results reveal that proposed inverter 
+offers better reliability, power quality and high lifetime over the existed topologies. 
+Project 7: Performance Investigation of 200KW Sic Inverter: (FREEDM Systems Centre, NC State University, 
+USA) 
+The Project presents the characteristics of the latest 
+commercial 1200V 300A SiC MOSFET modules used 
+Agile Switch Inverter and compares its performance 
+with Si IGBT with the same rating using experimental 
+results and the LTSpice software environment. Our SiC 
+MOSFET model in LTSpice gives accurate results across 
+a wide range of temperatures. The results show that 
+the 1200V SiC MOSFET has faster switching spee d and 
+significantly less switching loss compared to the Si 
+IGBT. The main objective of this SiC-based project is to 
+develop the modulation and control scheme using 
+FGPA to investigate the performance at higher 
+switching speeds. Moreover, the Si IGBT switching loss 
+will increase significantly for higher operation temperature, while the SiC MOSFET switching loss has little variation over 
+different temperatures. This project also investigated the stray inductance effect on the gate, drain, and source side and 
+verifies its performance with Si IGBT. 
+ 
+Project 8: Testing Circuit for Power Electronic Device Characterization: (FREEDM Systems Centre, NC State 
+University, USA) 
+A novel energy recirculation circuit utilizes the concept of 
+energy recirculation, with the power augmentation capability, 
+is proposed. Proposed ERSC can be used as a device in -situ 
+testing unit, by utilizing naturally occurring high electrical 
+stresses on devices from a low -cost low -power s ource to 
+supply energy for high power testing of power electronic 
+devices. This topology allows devices to be examined at full -
+power stresses without connected with high power load and 
+also without demanding high power, by storing and 
+recirculating the energy of the energy storage elements, which 
+elevates the capability of source power. This converter can 
+operate in four different modes of operation, namely, soft start, magnetize, charge and energy recirculation modes with 
+the four active states of operatio ns attained by two active switches of the proposed converter. Another feature of this 
+converter is, based on the devices under test devices performance these two circuits can be designed to operate in a 
+synchronous or asynchronous manner, i.e. faster devices or slower devices can be tested 
+For in-situ testing of high current and/or voltage devices, this circuit offers several advantages such as simple circuit 
+design, does not demand any high voltage step-up transformer for realizing high voltages/currents, can be able to operate 
+
+ 
+from low voltage/ power supply, cheapest solution and also provides fast response in comparison with conventional 
+cascaded boost/buck and cascaded buck/boost ERSCs.  To validate the concept, simulations are carried for testing of 
+1.2KV and 100A using 100V and 8A. And, the same is going to prove with the help of a lab-made prototype. 
+Project 9: Improved Power Quality Transformerless Power Converters for Solar PV applications (IIT Roorkee) 
+To further enhance the conversion gain, coupled inductor based 
+capacitor clamped boost inverter has been proposed. This 
+chapter introduces coupled inductor based capacitor clamped 
+3-phase DC-AC boost inverter with an intrinsic step up abilities 
+by utilizing the small passive components. The main objective 
+of this proposed inverter is to reduce the usage of capacitors 
+(generally preferred to increase the gain), which are a weakest 
+reliable element in the inverter design. By shifting the filter 
+components fro m ac side to intermediate place, inverter can 
+attain boost capability as well as good power decoupling ability, 
+since shifted capacitor acting as a good power decoupling 
+element. Furthermore, modulating waveforms are altered such 
+a way that voltages across  the capacitors are decreased. 
+Reduced voltage stresses on capacitors lead to better reliability 
+and enhanced lifespan of the inverter. This inverter performance under different test conditions is compared with boost 
+converter fed voltage source inverter ( BVSI), Z -Source Inverter (ZSI), quasi Z -Source Inverter (q -ZSI), Switched Boost 
+Inverter (SBI), Current -Fed SBI (CF -SBI), quasi SBI (qSBI), Improved ZSI (IZSI), Switched Inductor -ZSI (SL -ZSI), Switched 
+Inductor-qZSI (SL -qZSI), Diode Assisted qZSI (DA -qZSI), Capacitor Assisted qZSI (CA -qZSI), Extended Boost ZSI (EB -ZSI), 
+Extended Boost qZSI (EB-qZSI) and CCBI; MATLAB Simulink results demonstrated that proposed inverter capabilities are 
+superior to above-mentioned topologies. A 1200W experimental prototype ha s been built to validate the feasibility and 
+benefits of the system. Simulation and experimental results reveal that proposed inverter offers better power quality, 
+reliability and high lifetime. 
+Project 10: Development of Converter System for Solar PV Power Generation: (IIT Roorkee) 
+Renewable energy resources will be an increasingly 
+important part of power generation in the new millennium. 
+The main objective of this project is to develop a power 
+conditioning system, which can be used to extract the 
+variable DC power from the sun. It is converted into fixed dc 
+by using DC-DC boost converter and then converted into AC 
+power by using 3 - level diode clamped inverter, to feed AC 
+load effectively. In this project simulation results of the FPGA 
+Controlled Photovoltaic (PV) power conditioning system for 
+AC, loads are presented. The power conditioning system 
+consists of a diode clamped three -level inv erter fed by a 
+closed-loop voltage-controlled DC-DC Boost converter. This 
+closed-loop control of the DC-DC converter is implemented by a conventional Pulse Width Modulator (PWM) with a duty 
+cycle ratio control method. This boost converter is designed to ob tain regulated voltage from the variable DC supply. A 
+level shifts sinusoidal PWM is used to control the multilevel inverter on FPGA. 
+ 
+Project 11: FPGA Controlled Diode Clamped 3-Level Inverter (IIT Roorkee) 
+In this project, the hardware of the Diode clamped 3 -level 
+inverter is implemented and is controlled by FPGA Controller. 
+This 3 -level inverter is mainly developed for medium -level 
+power applications. FPGA has been preferred over a 
+traditional microcontroller because an FPGA can work a t 
+frequencies of the order of 50MHz, while the latter can work 
+with frequencies up to 5-6 MHz only, making the FPGA faster 
+and more accurate in the generation of firing pulses.  
+ 
+ 
+

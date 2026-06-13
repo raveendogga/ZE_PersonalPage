@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /database.sql
+
+Sitemap: https://www.zunikenergies.com/sitemap.xml

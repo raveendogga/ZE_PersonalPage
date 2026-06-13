@@ -1,0 +1,345 @@
+<?php 
+require_once '../includes/header.php'; 
+?>
+
+<div class="bg-light py-5">
+    <div class="container py-4">
+        
+        <!-- Breadcrumbs -->
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>index.php" class="text-decoration-none">Home</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>pages/about.php" class="text-decoration-none">About Us</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Dr. Dogga Raveendhra</li>
+            </ol>
+        </nav>
+
+        <!-- Profile Header Section matching the exact screenshot layout -->
+        <div class="row align-items-center mb-5 bg-white p-4 rounded-4 shadow-sm border-top border-primary border-4 position-relative overflow-hidden">
+            <div class="position-absolute top-0 start-0 h-100 bg-info opacity-25" style="width: 25%; clip-path: polygon(0 0, 100% 0, 50% 100%, 0% 100%); z-index: 0;"></div>
+            
+            <div class="col-md-3 text-center position-relative z-1 mb-4 mb-md-0">
+                <div class="rounded-circle shadow-sm border border-4 border-white d-inline-flex align-items-center justify-content-center bg-white" style="width: 160px; height: 160px; overflow: hidden;">
+                    <img src="../assets/images/logo.png" alt="Zunik Energies" style="max-width: 85%;">
+                </div>
+            </div>
+            <div class="col-md-6 text-center position-relative z-1 mb-4 mb-md-0 px-md-4">
+                <h3 class="fw-bold text-dark mb-2">Dr. Dogga Raveendhra</h3>
+                <p class="mb-1 text-danger fw-bold" style="font-size: 0.95rem;">Post-Doctoral Fellow <span class="fw-normal text-muted">(Renewable Energy Research center, AUS, UAE)</span></p>
+                <p class="mb-1 text-secondary" style="font-size: 0.95rem;">Ph.D. (IIT Roorkee & <span class="fw-bold text-success">Excellence in Doctoral Research Award</span> from IIT Roorkee)</p>
+                <p class="mb-1 text-secondary" style="font-size: 0.95rem;">Ph.D. Visiting Researcher <span class="text-primary">(North Carolina State University, USA)</span></p>
+                <p class="mb-1 text-secondary" style="font-size: 0.95rem;">M. Tech (Electrical Drives and Power Electronics, EED, <span class="fw-bold text-warning">IIT Roorkee</span>)</p>
+                <p class="mb-1 text-secondary" style="font-size: 0.95rem;">Assistant Professor, Department of Electrical Engineering</p>
+                <p class="mb-0 text-secondary" style="font-size: 0.95rem;">National Institute of Technology <span class="text-success">Allahabad</span></p>
+            </div>
+            <div class="col-md-3 text-center position-relative z-1">
+                <div class="position-relative d-inline-block">
+                    <img src="../assets/images/team/dogga_raveendhra.jpg" alt="Dogga Raveendhra" class="rounded-circle shadow-lg border border-4 border-white" style="width: 180px; height: 180px; object-fit: cover;">
+                </div>
+            </div>
+        </div>
+
+        <div class="row gx-5">
+            <!-- Sticky Sidebar Navigation -->
+            <div class="col-lg-3 mb-5 mb-lg-0">
+                <div class="sticky-top" style="top: 100px; z-index: 1;">
+                    <div id="list-example" class="list-group shadow-sm rounded-4 border-0">
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0 rounded-top-4" href="#summary"><i class="bi bi-person-lines-fill me-2"></i> Profile Summary</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#education"><i class="bi bi-mortarboard me-2"></i> Education</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#experience"><i class="bi bi-briefcase me-2"></i> Work Experience</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#roles"><i class="bi bi-diagram-3 me-2"></i> Administrative Roles</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#projects"><i class="bi bi-cpu me-2"></i> Projects & Grants</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#publications"><i class="bi bi-journal-text me-2"></i> Publications</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#patents"><i class="bi bi-lightbulb me-2"></i> Patents & Books</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#awards"><i class="bi bi-trophy me-2"></i> Awards</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0 rounded-bottom-4" href="#memberships"><i class="bi bi-people me-2"></i> Memberships</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="col-lg-9">
+                <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" tabindex="0">
+                    
+                    <!-- Profile Summary -->
+                    <section id="summary" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-person-lines-fill me-2"></i> Profile Summary</h3>
+                        <div class="text-muted fs-6 lh-lg">
+                            <p>Hard-working, results-oriented and self-driven researcher with 10+ years of industrial R&D and academic experience in Power Electronics and Electrical Drives. Proven history in overseeing all aspects of projects from initial planning, developing, prototyping, and publishing. Experience accompanied by graduate degree, teaching, and research with the best innovation award.</p>
+                            <h5 class="fw-bold text-dark mt-4 mb-3">Highlights of Qualifications</h5>
+                            <ul>
+                                <li><strong>Design, modelling, simulation, control, and implementation</strong> of power electronic converters and machine drive, including space vector inverters for automotive/transportation and single-stage boost-inverters for renewable energy applications.</li>
+                                <li><strong>Simulation (Model-Based Analysis)</strong> in Simulink, including modelling and control of DC-AC and DC-DC power electronic converters in continuous and discrete domains.</li>
+                                <li><strong>Testing and troubleshooting</strong> of DC-AC and DC-DC power electronic converters.</li>
+                                <li>Using laboratory test equipment, including oscilloscopes, dynamometer, DC and AC power supplies, source meters, load emulators, power analysers, RLC meters, signal generators, thermal camera, and logic analyser.</li>
+                                <li>Patents Filed/Published: 01 US Patent Disclosure and 02 published Indian Patents.</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <!-- Education -->
+                    <section id="education" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-mortarboard me-2"></i> Educational Qualifications</h3>
+                        <div class="timeline ps-4 border-start border-3 border-primary">
+                            <div class="mb-4 position-relative">
+                                <span class="position-absolute top-0 start-0 translate-middle p-2 bg-primary rounded-circle shadow-sm" style="margin-left: -24px;"></span>
+                                <h5 class="fw-bold mb-1">Ph.D. (Electrical Engineering)</h5>
+                                <h6 class="text-primary mb-2">Indian Institute of Technology, Roorkee (2019)</h6>
+                                <p class="text-muted mb-1"><strong>Thesis:</strong> Improved Power Quality Transformerless Power Converters for Solar PV applications</p>
+                                <span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25 rounded-pill px-3 py-1">Excellence in Doctoral Research Award</span>
+                            </div>
+                            <div class="mb-4 position-relative">
+                                <span class="position-absolute top-0 start-0 translate-middle p-2 bg-primary rounded-circle shadow-sm" style="margin-left: -24px;"></span>
+                                <h5 class="fw-bold mb-1">M.Tech. (Electrical Drives and Power Electronics)</h5>
+                                <h6 class="text-primary mb-2">Indian Institute of Technology, Roorkee (2012)</h6>
+                                <p class="text-muted mb-0"><strong>Dissertation:</strong> Development of Converter System for Solar PV Power Generation</p>
+                            </div>
+                            <div class="position-relative">
+                                <span class="position-absolute top-0 start-0 translate-middle p-2 bg-primary rounded-circle shadow-sm" style="margin-left: -24px;"></span>
+                                <h5 class="fw-bold mb-1">B.Tech. (Electrical & Electronics Engineering)</h5>
+                                <h6 class="text-primary mb-2">JNTU Kakinada (2009)</h6>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Work Experience -->
+                    <section id="experience" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-briefcase me-2"></i> Work Experience</h3>
+                        
+                        <h5 class="fw-bold text-dark mt-4 mb-3">International Experience</h5>
+                        <div class="card border-0 bg-light rounded-4 mb-3">
+                            <div class="card-body p-4">
+                                <h5 class="fw-bold text-primary mb-1">ALTEN Gmbh, Dortmund, Germany</h5>
+                                <p class="text-muted fw-bold mb-2">Senior Engineering Consultant (Dec '22 - June '23)</p>
+                                <ul class="text-muted mb-0 small">
+                                    <li>Develop Controller algorithms for on-board chargers for Electric Vehicles.</li>
+                                    <li>Develop, test, and implement innovative research for power converters of Electric Vehicle Systems.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card border-0 bg-light rounded-4 mb-3">
+                            <div class="card-body p-4">
+                                <h5 class="fw-bold text-primary mb-1">Renewable Energy Research Center, AUS, UAE</h5>
+                                <p class="text-muted fw-bold mb-2">Post-Doctoral Research Associate (Sep '19 - June '20)</p>
+                                <ul class="text-muted mb-0 small">
+                                    <li>Develop, test, and implement innovative research for Hybrid Energy Storage Systems of EV Systems.</li>
+                                    <li>Development of a loss-thermal model for space vector modulated (SVM) inverters.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card border-0 bg-light rounded-4 mb-4">
+                            <div class="card-body p-4">
+                                <h5 class="fw-bold text-primary mb-1">FREEDM Systems Centre, NC State University, USA</h5>
+                                <p class="text-muted fw-bold mb-2">Visiting Doctoral Researcher (July '16 - Nov '16)</p>
+                                <ul class="text-muted mb-0 small">
+                                    <li>Design and Development of Power Converter for Solar PV Systems.</li>
+                                    <li>Novel Characterization Circuit for Power Semiconductor Device Testing.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <h5 class="fw-bold text-dark mt-5 mb-3">National Experience</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item py-3 px-0 border-light">
+                                <h6 class="fw-bold mb-1">Assistant Professor</h6>
+                                <p class="text-primary mb-0 small">MNNIT Allahabad, India (June '23 - Present)</p>
+                            </li>
+                            <li class="list-group-item py-3 px-0 border-light">
+                                <h6 class="fw-bold mb-1">Associate Professor</h6>
+                                <p class="text-primary mb-0 small">GRIET Hyderabad, India (Oct '20 - Nov '22)</p>
+                            </li>
+                            <li class="list-group-item py-3 px-0 border-light">
+                                <h6 class="fw-bold mb-1">Senior Research Engineer / Tech Lead / Founder</h6>
+                                <p class="text-primary mb-0 small">Zunik Energies Pvt. Ltd., India (Nov '17 - Present)</p>
+                            </li>
+                            <li class="list-group-item py-3 px-0 border-light">
+                                <h6 class="fw-bold mb-1">Senior & Junior Research Fellow</h6>
+                                <p class="text-primary mb-0 small">IIT Roorkee, India (July '14 - July '19)</p>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <!-- Administrative Roles -->
+                    <section id="roles" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-diagram-3 me-2"></i> Administrative & Outreach Roles</h3>
+                        <div class="row g-4 text-muted small">
+                            <div class="col-md-6">
+                                <h6 class="fw-bold text-dark">National Level</h6>
+                                <ul>
+                                    <li>Member, Development Coordination Committee (DCC) Sub-Committee of Quantum Technology Division in TEC, Govt. of India.</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <h6 class="fw-bold text-dark">Institute Level (MNNIT)</h6>
+                                <ul>
+                                    <li>Convener, Institute Committee for Center for Sustainable Energy.</li>
+                                    <li>Associate Faculty In-Charge [Scholarships & Students Counselling].</li>
+                                </ul>
+                            </div>
+                            <div class="col-12">
+                                <h6 class="fw-bold text-dark">Department Level</h6>
+                                <ul>
+                                    <li>Faculty In-Charge Institute-Industry Relations & Visits.</li>
+                                    <li>Coordinator, Website Management and Database Committee, EED.</li>
+                                    <li>O.C. for Power Electronics Lab, EED.</li>
+                                    <li>Faculty Representative for Indian Science Technology and Engineering facilities Map (I-STEM).</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Projects -->
+                    <section id="projects" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-cpu me-2"></i> Sponsored Projects & Grants</h3>
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover small">
+                                <thead class="table-primary text-center">
+                                    <tr>
+                                        <th>Project Title</th>
+                                        <th>Agency / Scheme</th>
+                                        <th>Cost (Lakhs)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Design of low cost, highly efficient testing circuit for power semiconductor characterization</td>
+                                        <td>DST, Govt. of India</td>
+                                        <td class="text-center">44.7</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Capacitor Clamped Boost Inverter for on-grid Solar PV Applications</td>
+                                        <td>MSME, Govt. of India</td>
+                                        <td class="text-center">15.0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Innovative research in energy efficiency and hybrid energy-storage systems</td>
+                                        <td>Renewable Energy Research Center, AUS, UAE</td>
+                                        <td class="text-center">38.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Capacitor Clamped Boost Inverter for Distributed Power Generation</td>
+                                        <td>GAIL Phank Scheme, GAIL India Ltd.</td>
+                                        <td class="text-center">140.0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Capacitor Clamped Boost Inverter for Solar Power Generation</td>
+                                        <td>TIDES Business Incubator, IIT Roorkee</td>
+                                        <td class="text-center">22.8</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Single Stage Inverter for Solar PV System</td>
+                                        <td>IUSSTF, Govt. of India</td>
+                                        <td class="text-center">10.4</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+
+                    <!-- Publications -->
+                    <section id="publications" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-journal-text me-2"></i> Publications (Journals & Conferences)</h3>
+                        <p class="text-muted"><strong>Citations:</strong> 605+ | <strong>h-index:</strong> 14 | <strong>i10-index:</strong> 15</p>
+                        <p class="small text-muted mb-4">Over all publications: Journals – 17, Conference Proceedings - 37, Book Chapters - 06.</p>
+                        
+                        <h6 class="fw-bold text-dark">Selected High-Impact Journals</h6>
+                        <ul class="text-muted small lh-lg">
+                            <li>D. Raveendhra and M. K. Pathak, "Three-Phase Capacitor Clamped Boost Inverter," <em>IEEE Journal of Emerging and Selected Topics in Power Electronics</em> (Impact Factor: 5.177, Q1).</li>
+                            <li>Raveendhra Dogga, M.K. Pathak, "Recent trends in solar PV inverter topologies", <em>Solar Energy (Elsevier)</em> (Impact Factor: 4.608, Q1).</li>
+                            <li>S. Mukhopadhyay, R. Dhaouadi, M. Takrouri and R. Dogga, "Supercapacitor Characterization Using Universal Adaptive Stabilization and Optimization," <em>IEEE Open Journal of the Industrial Electronics Society</em> (Impact Factor: 5.2, Q1).</li>
+                            <li>D Raveendhra, Poojitha Rajana, BL Narasimharaju, et al., "Analysis and Operation of High DC-AC Gain 3-ϕ Capacitor Clamped Boost Inverter," <em>Energies 2022</em> (Impact Factor: 3, Q1).</li>
+                            <li>Raveendhra, D.; Poojitha, et al., "Part I & Part II: State-of-the-Art technologies of DC Micro Grid with Hybrid Energy Storage Systems," <em>Energies 2023</em> (Impact Factor: 3, Q1).</li>
+                        </ul>
+                    </section>
+                    
+                    <!-- Patents -->
+                    <section id="patents" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-lightbulb me-2"></i> Patents & Book Chapters</h3>
+                        <div class="mb-4">
+                            <h6 class="fw-bold text-dark">Patents (Granted: 1, Published: 3)</h6>
+                            <ul class="text-muted small lh-lg mb-0">
+                                <li><strong>Granted:</strong> "High Gain Non-Isolated Bi-Directional DC-DC Converter" (Patent No: 418205) - 2021.</li>
+                                <li><strong>US Disclosure:</strong> "Energy Re-Circulation Circuit and Controls for Applications including Power Semiconductor Device Characterisation", Filed at NCSU for US patent.</li>
+                                <li><strong>Published (India):</strong> "Novel Single-Stage Inverter", Application Number: 201641038706.</li>
+                                <li><strong>Published (India):</strong> "Novel Capacitor Clamped Bidirectional DC-DC Converter".</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold text-dark">Book Chapters</h6>
+                            <p class="text-muted small mb-0">Authored 6 book chapters covering Single Stage Power Conditioning, FPGA Controlled Power Conditioning Systems, and Electric Vehicle Wireless Charging, published in Springer and Taylor & Francis series.</p>
+                        </div>
+                    </section>
+
+                    <!-- Awards -->
+                    <section id="awards" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-trophy me-2"></i> Awards & Honours</h3>
+                        <ul class="text-muted small lh-lg">
+                            <li><strong>Excellence in Doctoral Research Award</strong> (for best Ph. D. Work) - IIT Roorkee, 2020.</li>
+                            <li><strong>Best Innovation Award</strong> - Zunik Energies Pvt. Ltd. (2019) & IKMC 2018 Start-up Exhibition (1st Prize).</li>
+                            <li><strong>Who's Who in the World</strong> - Marquis, USA (2018 & 2019).</li>
+                            <li><strong>Albert Nelson Marquis Lifetime Achievement Award</strong> - Marquis Who's Who, USA (2018).</li>
+                            <li><strong>Delegate for India-Italy Summit</strong> - DST-CII, New Delhi (2018).</li>
+                            <li><strong>Bhaskara Advanced Solar Energy Fellowship</strong> - DST, India (2016).</li>
+                            <li><strong>Judges Choice award</strong> - TIDES-IITRHF (2017).</li>
+                        </ul>
+                    </section>
+
+                    <!-- Memberships & Reviewer -->
+                    <section id="memberships" class="bg-white p-5 rounded-4 shadow-sm">
+                        <h3 class="fw-bold mb-4 text-primary border-bottom pb-3"><i class="bi bi-people me-2"></i> Professional Memberships & Service</h3>
+                        <div class="row text-muted small lh-lg">
+                            <div class="col-md-6 mb-4">
+                                <h6 class="fw-bold text-dark">Memberships</h6>
+                                <ul class="mb-0">
+                                    <li>IEEE Member.</li>
+                                    <li>Member, Subcommittee of "Resonant and Soft Switching Converters" of IES Power Electronics Technical Committee (IEEE IES PETC).</li>
+                                    <li>Full Member (MEEC) of the European Energy Centre.</li>
+                                    <li>Board of Studies (BoS) Member - KL University, VNIT Nagpur.</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <h6 class="fw-bold text-dark">Editorial & Reviewer Roles</h6>
+                                <ul class="mb-0">
+                                    <li>Associate Editor: International Journal of Applied Power Engineering.</li>
+                                    <li>Reviewer for IEEE Trans. on Industrial Electronics (IF 6.498), IEEE Trans. on Emerging and Selected Topics in Power Electronics (IF 5.177).</li>
+                                    <li>Reviewer for Elsevier (Solar Energy, Electrical Power and Energy Systems) and IET Journals.</li>
+                                    <li>Reviewer for over 25 IEEE Conferences.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+/* CSS to ensure smooth scrolling and correct spy offset */
+html {
+    scroll-behavior: smooth;
+}
+#list-example .active {
+    background-color: #0d6efd !important;
+    color: white !important;
+    font-weight: bold;
+}
+/* Address sticky header offset issue if header is fixed */
+section {
+    scroll-margin-top: 100px; 
+}
+</style>
+
+<!-- Add scrollspy initialization -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+        target: '#list-example',
+        offset: 120
+    })
+});
+</script>
+
+<?php require_once '../includes/footer.php'; ?>
