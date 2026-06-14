@@ -199,3 +199,9 @@ footer {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
+
+/* Justified alignment for main content */
+[data-bs-spy="scroll"] p,
+[data-bs-spy="scroll"] li {
+    text-align: justify;
+}
