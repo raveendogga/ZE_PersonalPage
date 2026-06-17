@@ -35,6 +35,17 @@
             color: #0d6efd !important;
             transition: color 0.2s ease-in-out;
         }
+    
+        .hover-card {
+            transition: transform 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+        }
+        .hover-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.15)!important;
+        }
+        .xs-text {
+            font-size: 0.75rem;
+        }
     </style>
 </head>
 <body class="bg-light">
@@ -111,6 +122,7 @@
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#experience"><i class="bi bi-briefcase me-2"></i> Work Experience</a>
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#roles"><i class="bi bi-diagram-3 me-2"></i> Administrative Roles</a>
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#projects"><i class="bi bi-cpu me-2"></i> Projects & Grants</a>
+                        <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#prototypes"><i class="bi bi-images me-2"></i> Prototypes Developed</a>
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#publications"><i class="bi bi-journal-text me-2"></i> Publications</a>
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#patents"><i class="bi bi-lightbulb me-2"></i> Patents & Books</a>
                         <a class="list-group-item list-group-item-action fw-medium py-3 border-0" href="#awards"><i class="bi bi-trophy me-2"></i> Awards</a>
@@ -330,6 +342,319 @@
                                     </tr>
                                 </tbody>
                             </table>
+                        </div>
+                    </section>
+
+                    
+                    <!-- Prototypes Developed -->
+                    <section id="prototypes" class="bg-white p-5 rounded-4 shadow-sm mb-5">
+                        <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center border-bottom pb-3 mb-4">
+                            <h3 class="fw-bold mb-2 mb-md-0 text-primary"><i class="bi bi-images me-2"></i> Prototypes Developed</h3>
+                            <a href="1_Research_Dogga_Raveendhra_NITW_V3.pptx" class="btn btn-outline-primary btn-sm rounded-pill px-3" download>
+                                <i class="bi bi-download me-1"></i> Download PPTX Deck
+                            </a>
+                        </div>
+                        
+                        <p class="text-muted small mb-4">
+                            Below is the full research presentation showcasing the hardware prototypes, experimental setups, control systems, and converter topologies developed by Dr. Dogga Raveendhra during research stints across various universities (IIT Roorkee, NC State University, American University of Sharjah, MNNIT). Click on any slide to enlarge it.
+                        </p>
+                        
+                        <div class="row">
+                            
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(1)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide1.JPG" class="card-img-top border-bottom" alt="Research Keynote Slide" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 1
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Research Keynote Slide</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(2)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide2.JPG" class="card-img-top border-bottom" alt="EV Two-Wheeler Converter Setup" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 2
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">EV Two-Wheeler Converter Setup</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(3)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide3.JPG" class="card-img-top border-bottom" alt="Supercapacitor Characterization Loop" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 3
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Supercapacitor Characterization Loop</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(4)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide4.JPG" class="card-img-top border-bottom" alt="LC Impedance Source Bidirectional Converter" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 4
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">LC Impedance Source Bidirectional Converter</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(5)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide5.JPG" class="card-img-top border-bottom" alt="Solar PV Inverter with Intrinsic Boost" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 5
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Solar PV Inverter with Intrinsic Boost</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(6)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide6.JPG" class="card-img-top border-bottom" alt="Universal Charger Development" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 6
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Universal Charger Development</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(7)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide7.JPG" class="card-img-top border-bottom" alt="Supercapacitor Characterization Setup" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 7
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Supercapacitor Characterization Setup</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(8)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide8.JPG" class="card-img-top border-bottom" alt="HESS for EVs Lab Setup" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 8
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">HESS for EVs Lab Setup</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(9)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide9.JPG" class="card-img-top border-bottom" alt="200kW SiC Inverter Layout & Setup" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 9
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">200kW SiC Inverter Layout & Setup</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(10)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide10.JPG" class="card-img-top border-bottom" alt="200kW SiC Inverter Performance Analysis" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 10
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">200kW SiC Inverter Performance Analysis</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(11)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide11.JPG" class="card-img-top border-bottom" alt="200kW SiC Inverter Experimental Waveforms" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 11
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">200kW SiC Inverter Experimental Waveforms</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(12)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide12.JPG" class="card-img-top border-bottom" alt="Transformerless Solar Inverter" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 12
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Transformerless Solar Inverter</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(13)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide13.JPG" class="card-img-top border-bottom" alt="Novel Single-Stage Boost Inverter" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 13
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Novel Single-Stage Boost Inverter</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(14)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide14.JPG" class="card-img-top border-bottom" alt="200kW SiC Inverter Thermal and Loss Analysis" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 14
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">200kW SiC Inverter Thermal and Loss Analysis</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(15)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide15.JPG" class="card-img-top border-bottom" alt="Device Characterization Test Circuit" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 15
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Device Characterization Test Circuit</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(16)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide16.JPG" class="card-img-top border-bottom" alt="Transformerless Solar PV Converter Performance" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 16
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Transformerless Solar PV Converter Performance</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(17)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide17.JPG" class="card-img-top border-bottom" alt="Converter System for Solar Power Generation" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 17
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Converter System for Solar Power Generation</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(18)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide18.JPG" class="card-img-top border-bottom" alt="FPGA Controlled Diode Clamped Inverter Board" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 18
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">FPGA Controlled Diode Clamped Inverter Board</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(19)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide19.JPG" class="card-img-top border-bottom" alt="Multiport Converters for DCMG Applications" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 19
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Multiport Converters for DCMG Applications</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(20)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide20.JPG" class="card-img-top border-bottom" alt="Research Vision & Collaboration Summary" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 20
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">Research Vision & Collaboration Summary</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 mb-4">
+                                <div class="card h-100 border-0 shadow-sm overflow-hidden hover-card" style="cursor: pointer;" onclick="openSlideLightbox(21)">
+                                    <div class="position-relative">
+                                        <img src="1_Research_Dogga_Raveendhra_NITW_V3/Slide21.JPG" class="card-img-top border-bottom" alt="High-Performance SRM Drive Controller" style="height: 180px; object-fit: cover;">
+                                        <div class="position-absolute top-0 end-0 bg-primary text-white px-2 py-1 m-2 rounded small fw-bold">
+                                            Slide 21
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-3">
+                                        <h6 class="card-title fw-bold text-dark mb-1 small text-truncate">High-Performance SRM Drive Controller</h6>
+                                        <p class="text-muted mb-0 xs-text"><i class="bi bi-zoom-in me-1"></i> Click to expand</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </section>
 
@@ -796,6 +1121,27 @@
     </div>
 </footer>
 
+
+    <!-- Slide Lightbox Modal -->
+    <div class="modal fade" id="slideLightboxModal" tabindex="-1" aria-hidden="true" style="background-color: rgba(11, 31, 58, 0.95);">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content border-0 bg-transparent text-white">
+                <div class="modal-header border-0 pb-0">
+                    <h5 class="modal-title fw-bold text-white fs-5" id="lightboxSlideTitle">Slide Details</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center p-4">
+                    <img id="lightboxSlideImg" src="" class="img-fluid rounded-3 shadow-lg border border-secondary border-2" style="max-height: 70vh; width: auto; object-fit: contain;">
+                </div>
+                <div class="modal-footer border-0 d-flex justify-content-between align-items-center">
+                    <button class="btn btn-outline-light rounded-pill px-4" onclick="prevSlide()"><i class="bi bi-chevron-left me-1"></i> Previous</button>
+                    <span id="lightboxSlideIndicator" class="fw-semibold fs-6">Slide 1 of 21</span>
+                    <button class="btn btn-outline-light rounded-pill px-4" onclick="nextSlide()">Next <i class="bi bi-chevron-right ms-1"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 <!-- Bootstrap 5 JS Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -807,6 +1153,73 @@ document.addEventListener('DOMContentLoaded', function () {
         offset: 120
     });
 });
+
+    
+    // Slide Lightbox State
+    let currentSlideIdx = 1;
+    const slideDescriptions = {
+        1: "Research Keynote Slide",
+        2: "EV Two-Wheeler Converter Setup",
+        3: "Supercapacitor Characterization Loop",
+        4: "LC Impedance Source Bidirectional Converter",
+        5: "Solar PV Inverter with Intrinsic Boost",
+        6: "Universal Charger Development",
+        7: "Supercapacitor Characterization Setup",
+        8: "HESS for EVs Lab Setup",
+        9: "200kW SiC Inverter Layout & Setup",
+        10: "200kW SiC Inverter Performance Analysis",
+        11: "200kW SiC Inverter Experimental Waveforms",
+        12: "Transformerless Solar Inverter",
+        13: "Novel Single-Stage Boost Inverter",
+        14: "200kW SiC Inverter Thermal and Loss Analysis",
+        15: "Device Characterization Test Circuit",
+        16: "Transformerless Solar PV Converter Performance",
+        17: "Converter System for Solar Power Generation",
+        18: "FPGA Controlled Diode Clamped Inverter Board",
+        19: "Multiport Converters for DCMG Applications",
+        20: "Research Vision & Collaboration Summary",
+        21: "High-Performance SRM Drive Controller"
+    };
+
+    function openSlideLightbox(idx) {
+        currentSlideIdx = idx;
+        updateLightboxContent();
+        const modal = new bootstrap.Modal(document.getElementById('slideLightboxModal'));
+        modal.show();
+    }
+
+    function prevSlide() {
+        currentSlideIdx = currentSlideIdx > 1 ? currentSlideIdx - 1 : 21;
+        updateLightboxContent();
+    }
+
+    function nextSlide() {
+        currentSlideIdx = currentSlideIdx < 21 ? currentSlideIdx + 1 : 1;
+        updateLightboxContent();
+    }
+
+    function updateLightboxContent() {
+        const img = document.getElementById('lightboxSlideImg');
+        const indicator = document.getElementById('lightboxSlideIndicator');
+        const title = document.getElementById('lightboxSlideTitle');
+        
+        img.src = `1_Research_Dogga_Raveendhra_NITW_V3/Slide${currentSlideIdx}.JPG`;
+        indicator.textContent = `Slide ${currentSlideIdx} of 21`;
+        title.textContent = slideDescriptions[currentSlideIdx] || `Slide ${currentSlideIdx}`;
+    }
+
+    // Keyboard support
+    document.addEventListener('keydown', function(e) {
+        const modalEl = document.getElementById('slideLightboxModal');
+        if (modalEl && modalEl.classList.contains('show')) {
+            if (e.key === 'ArrowLeft') {
+                prevSlide();
+            } else if (e.key === 'ArrowRight') {
+                nextSlide();
+            }
+        }
+    });
+
 </script>
 
 </body>
