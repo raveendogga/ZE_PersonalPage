@@ -350,9 +350,6 @@
                     <section id="prototypes" class="bg-white p-5 rounded-4 shadow-sm mb-5">
                         <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center border-bottom pb-3 mb-4">
                             <h3 class="fw-bold mb-2 mb-md-0 text-primary"><i class="bi bi-images me-2"></i> Prototypes Developed</h3>
-                            <a href="1_Research_Dogga_Raveendhra_NITW_V3.pptx" class="btn btn-outline-primary btn-sm rounded-pill px-3" download>
-                                <i class="bi bi-download me-1"></i> Download PPTX Deck
-                            </a>
                         </div>
                         
                         <p class="text-muted small mb-4">
@@ -1424,6 +1421,15 @@ document.addEventListener('DOMContentLoaded', function () {
     var scrollSpy = new bootstrap.ScrollSpy(document.body, {
         target: '#list-example',
         offset: 120
+    });
+    
+    // Dynamically update browser URL hash on scrolling/activating sections
+    document.body.addEventListener('activate.bs.scrollspy', function (e) {
+        var activeLink = e.relatedTarget;
+        if (activeLink && activeLink.getAttribute('href')) {
+            var hash = activeLink.getAttribute('href');
+            history.replaceState(null, null, hash);
+        }
     });
 });
 
